@@ -1,0 +1,2056 @@
+[
+  {
+    "category": "season",
+    "type": "team_record",
+    "teams": [
+      "Chicago Sky"
+    ],
+    "question": "what was the sky's regular season record in '25?",
+    "gold_names": [],
+    "gold_numbers": [
+      10,
+      34
+    ],
+    "question_template": "What was the Sky's regular-season record in 2025?",
+    "rewritten": true,
+    "qid": 0
+  },
+  {
+    "category": "season",
+    "type": "team_record",
+    "teams": [
+      "Dallas Wings"
+    ],
+    "question": "what was the wings' regular season record?",
+    "gold_names": [],
+    "gold_numbers": [
+      10,
+      34
+    ],
+    "question_template": "What was the Wings regular-season record in 2025?",
+    "rewritten": true,
+    "qid": 1
+  },
+  {
+    "category": "season",
+    "type": "team_record",
+    "teams": [
+      "Golden State Valkyries"
+    ],
+    "question": "yo, what's the valkyries' reg season record?",
+    "gold_names": [],
+    "gold_numbers": [
+      23,
+      21
+    ],
+    "question_template": "What was the Valkyries regular-season record in 2025?",
+    "rewritten": true,
+    "qid": 2
+  },
+  {
+    "category": "season",
+    "type": "team_record",
+    "teams": [
+      "Los Angeles Sparks"
+    ],
+    "question": "what was the sparks' reg season record this year?",
+    "gold_names": [],
+    "gold_numbers": [
+      21,
+      23
+    ],
+    "question_template": "What was the Sparks regular-season record in 2025?",
+    "rewritten": true,
+    "qid": 3
+  },
+  {
+    "category": "season",
+    "type": "team_record",
+    "teams": [
+      "Minnesota Lynx"
+    ],
+    "question": "what was the lynx' reg season record in 2025?",
+    "gold_names": [],
+    "gold_numbers": [
+      34,
+      10
+    ],
+    "question_template": "What was the Lynx's regular-season record in 2025?",
+    "rewritten": true,
+    "qid": 4
+  },
+  {
+    "category": "season",
+    "type": "team_record",
+    "teams": [
+      "Phoenix Mercury"
+    ],
+    "question": "what was the mercury's reg season record in 2025?",
+    "gold_names": [],
+    "gold_numbers": [
+      27,
+      17
+    ],
+    "question_template": "What was the Mercury's regular-season record in 2025?",
+    "rewritten": true,
+    "qid": 5
+  },
+  {
+    "category": "season",
+    "type": "team_record",
+    "teams": [
+      "Seattle Storm"
+    ],
+    "question": "what was the storm's reg-season record in 2025?",
+    "gold_names": [],
+    "gold_numbers": [
+      23,
+      21
+    ],
+    "question_template": "What was the Storm's regular-season record in 2025?",
+    "rewritten": true,
+    "qid": 6
+  },
+  {
+    "category": "season",
+    "type": "team_record",
+    "teams": [
+      "Washington Mystics"
+    ],
+    "question": "what was the mystics' regular-season record in 2025?",
+    "gold_names": [],
+    "gold_numbers": [
+      16,
+      28
+    ],
+    "question_template": "What was the Mystics regular-season record in 2025?",
+    "rewritten": true,
+    "qid": 7
+  },
+  {
+    "category": "season",
+    "type": "team_leader_per_game",
+    "teams": [
+      "Chicago Sky"
+    ],
+    "question": "who was the sky's top scorer per game in the regular season?",
+    "gold_names": [
+      "Angel Reese"
+    ],
+    "gold_numbers": [],
+    "question_template": "Who led the Sky in points per game during the 2025 regular season?",
+    "rewritten": true,
+    "qid": 8
+  },
+  {
+    "category": "season",
+    "type": "team_leader_per_game",
+    "teams": [
+      "Dallas Wings"
+    ],
+    "question": "who led the wings in dimes per game during the regular season?",
+    "gold_names": [
+      "Paige Bueckers"
+    ],
+    "gold_numbers": [],
+    "question_template": "Who led the Wings in assists per game during the 2025 regular season?",
+    "rewritten": true,
+    "qid": 9
+  },
+  {
+    "category": "season",
+    "type": "team_leader_per_game",
+    "teams": [
+      "Golden State Valkyries"
+    ],
+    "question": "who was dishin' out the dimes for the valkyries in assists per game during the reg season in 2025?",
+    "gold_names": [
+      "Veronica Burton"
+    ],
+    "gold_numbers": [],
+    "question_template": "Who led the Valkyries in assists per game during the 2025 regular season?",
+    "rewritten": true,
+    "qid": 10
+  },
+  {
+    "category": "season",
+    "type": "team_leader_per_game",
+    "teams": [
+      "Los Angeles Sparks"
+    ],
+    "question": "who was the sparks' assists leader per game in the 2025 regular season?",
+    "gold_names": [
+      "Kelsey Plum"
+    ],
+    "gold_numbers": [],
+    "question_template": "Who led the Sparks in assists per game during the 2025 regular season?",
+    "rewritten": true,
+    "qid": 11
+  },
+  {
+    "category": "season",
+    "type": "team_leader_per_game",
+    "teams": [
+      "Minnesota Lynx"
+    ],
+    "question": "who was the rebounding leader for the lynx during the regular season in 2025?",
+    "gold_names": [
+      "Napheesa Collier"
+    ],
+    "gold_numbers": [],
+    "question_template": "Who led the Lynx in rebounds per game during the 2025 regular season?",
+    "rewritten": true,
+    "qid": 12
+  },
+  {
+    "category": "season",
+    "type": "team_leader_per_game",
+    "teams": [
+      "Phoenix Mercury"
+    ],
+    "question": "Who led the Mercury in assists per game during the 2025 regular season?",
+    "gold_names": [
+      "Alyssa Thomas"
+    ],
+    "gold_numbers": [],
+    "question_template": "Who led the Mercury in assists per game during the 2025 regular season?",
+    "rewritten": false,
+    "qid": 13
+  },
+  {
+    "category": "season",
+    "type": "team_leader_per_game",
+    "teams": [
+      "Seattle Storm"
+    ],
+    "question": "who was the storm's leader in dimes per game during the reg season?",
+    "gold_names": [
+      "Skylar Diggins"
+    ],
+    "gold_numbers": [],
+    "question_template": "Who led the Storm in assists per game during the 2025 regular season?",
+    "rewritten": true,
+    "qid": 14
+  },
+  {
+    "category": "season",
+    "type": "team_leader_per_game",
+    "teams": [
+      "Washington Mystics"
+    ],
+    "question": "who was dishing out the most dimes for the mystics in assists per game during the 2025 regular season?",
+    "gold_names": [
+      "Brittney Sykes"
+    ],
+    "gold_numbers": [],
+    "question_template": "Who led the Mystics in assists per game during the 2025 regular season?",
+    "rewritten": true,
+    "qid": 15
+  },
+  {
+    "category": "season",
+    "type": "player_average",
+    "teams": [
+      "Chicago Sky"
+    ],
+    "question": "how many ppg did kamilla cardoso avg in the 2025 regular season?",
+    "gold_names": [],
+    "gold_numbers": [
+      13.6
+    ],
+    "question_template": "How many points per game did Kamilla Cardoso average in the 2025 regular season?",
+    "rewritten": true,
+    "qid": 16
+  },
+  {
+    "category": "season",
+    "type": "player_average",
+    "teams": [
+      "Dallas Wings"
+    ],
+    "question": "how many ppg did arike ogunbowale average in the 2025 regular season?",
+    "gold_names": [],
+    "gold_numbers": [
+      15.5
+    ],
+    "question_template": "How many points per game did Arike Ogunbowale average in the 2025 regular season?",
+    "rewritten": true,
+    "qid": 17
+  },
+  {
+    "category": "season",
+    "type": "player_average",
+    "teams": [
+      "Golden State Valkyries"
+    ],
+    "question": "how many ppg did cece zandalasini avg in the '25 regular season?",
+    "gold_names": [],
+    "gold_numbers": [
+      9.5
+    ],
+    "question_template": "How many points per game did Cecilia Zandalasini average in the 2025 regular season?",
+    "rewritten": true,
+    "qid": 18
+  },
+  {
+    "category": "season",
+    "type": "player_average",
+    "teams": [
+      "Los Angeles Sparks"
+    ],
+    "question": "how many boards per game did kelsey plum average in the 2025 regular season?",
+    "gold_names": [],
+    "gold_numbers": [
+      3.1
+    ],
+    "question_template": "How many rebounds per game did Kelsey Plum average in the 2025 regular season?",
+    "rewritten": true,
+    "qid": 19
+  },
+  {
+    "category": "season",
+    "type": "player_average",
+    "teams": [
+      "Minnesota Lynx"
+    ],
+    "question": "how many boards per game did kayla mcbride average in the 2025 regular season?",
+    "gold_names": [],
+    "gold_numbers": [
+      2.3
+    ],
+    "question_template": "How many rebounds per game did Kayla McBride average in the 2025 regular season?",
+    "rewritten": true,
+    "qid": 20
+  },
+  {
+    "category": "season",
+    "type": "player_average",
+    "teams": [
+      "Phoenix Mercury"
+    ],
+    "question": "how many ppg did satou sabally average in the 2025 regular season?",
+    "gold_names": [],
+    "gold_numbers": [
+      16.3
+    ],
+    "question_template": "How many points per game did Satou Sabally average in the 2025 regular season?",
+    "rewritten": true,
+    "qid": 21
+  },
+  {
+    "category": "season",
+    "type": "player_average",
+    "teams": [
+      "Seattle Storm"
+    ],
+    "question": "how many boards per game did erica wheeler drop in the 2025 regular season?",
+    "gold_names": [],
+    "gold_numbers": [
+      2.7
+    ],
+    "question_template": "How many rebounds per game did Erica Wheeler average in the 2025 regular season?",
+    "rewritten": true,
+    "qid": 22
+  },
+  {
+    "category": "season",
+    "type": "player_average",
+    "teams": [
+      "Washington Mystics"
+    ],
+    "question": "how many ppg did sonia citron avg in the 2025 regular season?",
+    "gold_names": [],
+    "gold_numbers": [
+      14.9
+    ],
+    "question_template": "How many points per game did Sonia Citron average in the 2025 regular season?",
+    "rewritten": true,
+    "qid": 23
+  },
+  {
+    "category": "season",
+    "type": "head_to_head",
+    "teams": [
+      "Seattle Storm",
+      "Washington Mystics"
+    ],
+    "question": "who took the regular-season series between the storm and the mystics, and what was the record?",
+    "gold_names": [
+      "Washington Mystics"
+    ],
+    "gold_numbers": [
+      2,
+      1
+    ],
+    "question_template": "Who won the 2025 regular-season series between the Storm and the Mystics, and what was the series record?",
+    "rewritten": true,
+    "qid": 24
+  },
+  {
+    "category": "season",
+    "type": "head_to_head",
+    "teams": [
+      "Dallas Wings",
+      "Seattle Storm"
+    ],
+    "question": "who took the regular-season matchup between the wings and the storm, and what was the record for the series?",
+    "gold_names": [
+      "Seattle Storm"
+    ],
+    "gold_numbers": [
+      3,
+      1
+    ],
+    "question_template": "Who won the 2025 regular-season series between the Wings and the Storm, and what was the series record?",
+    "rewritten": true,
+    "qid": 25
+  },
+  {
+    "category": "season",
+    "type": "head_to_head",
+    "teams": [
+      "Los Angeles Sparks",
+      "Phoenix Mercury"
+    ],
+    "question": "who took the 2025 regular-season series between the sparks and the mercury, and what was the record?",
+    "gold_names": [
+      "Phoenix Mercury"
+    ],
+    "gold_numbers": [
+      3,
+      1
+    ],
+    "question_template": "Who won the 2025 regular-season series between the Sparks and the Mercury, and what was the series record?",
+    "rewritten": true,
+    "qid": 26
+  },
+  {
+    "category": "season",
+    "type": "head_to_head",
+    "teams": [
+      "Dallas Wings",
+      "Los Angeles Sparks"
+    ],
+    "question": "who took the regular-season series between the wings and sparks in 2025, and what was the series record?",
+    "gold_names": [
+      "Los Angeles Sparks"
+    ],
+    "gold_numbers": [
+      4,
+      0
+    ],
+    "question_template": "Who won the 2025 regular-season series between the Wings and the Sparks, and what was the series record?",
+    "rewritten": true,
+    "qid": 27
+  },
+  {
+    "category": "season",
+    "type": "head_to_head",
+    "teams": [
+      "Chicago Sky",
+      "Dallas Wings"
+    ],
+    "question": "who took the regular-season series between the sky and the wings in 2025, and what was the record?",
+    "gold_names": [
+      "Chicago Sky"
+    ],
+    "gold_numbers": [
+      3,
+      0
+    ],
+    "question_template": "Who won the 2025 regular-season series between the Sky and the Wings, and what was the series record?",
+    "rewritten": true,
+    "qid": 28
+  },
+  {
+    "category": "season",
+    "type": "head_to_head",
+    "teams": [
+      "Chicago Sky",
+      "Minnesota Lynx"
+    ],
+    "question": "who took the 2025 regular-season series between the sky and the lynx, and what was the final record?",
+    "gold_names": [
+      "Minnesota Lynx"
+    ],
+    "gold_numbers": [
+      3,
+      1
+    ],
+    "question_template": "Who won the 2025 regular-season series between the Sky and the Lynx, and what was the series record?",
+    "rewritten": true,
+    "qid": 29
+  },
+  {
+    "category": "season",
+    "type": "head_to_head",
+    "teams": [
+      "Los Angeles Sparks",
+      "Seattle Storm"
+    ],
+    "question": "who took the regular-season series between the sparks and the storm, and what was the record?",
+    "gold_names": [
+      "Los Angeles Sparks"
+    ],
+    "gold_numbers": [
+      3,
+      1
+    ],
+    "question_template": "Who won the 2025 regular-season series between the Sparks and the Storm, and what was the series record?",
+    "rewritten": true,
+    "qid": 30
+  },
+  {
+    "category": "season",
+    "type": "head_to_head",
+    "teams": [
+      "Golden State Valkyries",
+      "Minnesota Lynx"
+    ],
+    "question": "who took the reg season series between the valkyries and lynx in 2025, and what was the record?",
+    "gold_names": [
+      "Minnesota Lynx"
+    ],
+    "gold_numbers": [
+      4,
+      0
+    ],
+    "question_template": "Who won the 2025 regular-season series between the Valkyries and the Lynx, and what was the series record?",
+    "rewritten": true,
+    "qid": 31
+  },
+  {
+    "category": "season",
+    "type": "player_vs_opponent",
+    "teams": [
+      "Chicago Sky",
+      "Phoenix Mercury"
+    ],
+    "question": "how many ppg did ariel atkins drop against the mercury in the regular season?",
+    "gold_names": [],
+    "gold_numbers": [
+      14.3
+    ],
+    "question_template": "How many points per game did Ariel Atkins average against the Mercury in the 2025 regular season?",
+    "rewritten": true,
+    "qid": 32
+  },
+  {
+    "category": "season",
+    "type": "player_vs_opponent",
+    "teams": [
+      "Dallas Wings",
+      "Seattle Storm"
+    ],
+    "question": "how many ppg did arike ogunbowale average vs the storm in the 2025 regular season?",
+    "gold_names": [],
+    "gold_numbers": [
+      12.0
+    ],
+    "question_template": "How many points per game did Arike Ogunbowale average against the Storm in the 2025 regular season?",
+    "rewritten": true,
+    "qid": 33
+  },
+  {
+    "category": "season",
+    "type": "player_vs_opponent",
+    "teams": [
+      "Los Angeles Sparks",
+      "Chicago Sky"
+    ],
+    "question": "how many ppg did kelsey plum avg vs the sky in the 2025 reg season?",
+    "gold_names": [],
+    "gold_numbers": [
+      23.3
+    ],
+    "question_template": "How many points per game did Kelsey Plum average against the Sky in the 2025 regular season?",
+    "rewritten": true,
+    "qid": 34
+  },
+  {
+    "category": "season",
+    "type": "player_vs_opponent",
+    "teams": [
+      "Minnesota Lynx",
+      "Dallas Wings"
+    ],
+    "question": "how many ppg did napheesa collier average against the wings in the 2025 regular season?",
+    "gold_names": [],
+    "gold_numbers": [
+      28.8
+    ],
+    "question_template": "How many points per game did Napheesa Collier average against the Wings in the 2025 regular season?",
+    "rewritten": true,
+    "qid": 35
+  },
+  {
+    "category": "season",
+    "type": "player_vs_opponent",
+    "teams": [
+      "Seattle Storm",
+      "Los Angeles Sparks"
+    ],
+    "question": "How many points per game did Nneka Ogwumike average against the Sparks in the 2025 regular season?",
+    "gold_names": [],
+    "gold_numbers": [
+      24.8
+    ],
+    "question_template": "How many points per game did Nneka Ogwumike average against the Sparks in the 2025 regular season?",
+    "rewritten": false,
+    "qid": 36
+  },
+  {
+    "category": "season",
+    "type": "player_vs_opponent",
+    "teams": [
+      "Washington Mystics",
+      "Phoenix Mercury"
+    ],
+    "question": "how many ppg did Brittney Sykes drop on the mercury during the 2025 regular season?",
+    "gold_names": [],
+    "gold_numbers": [
+      7.0
+    ],
+    "question_template": "How many points per game did Brittney Sykes average against the Mercury in the 2025 regular season?",
+    "rewritten": true,
+    "qid": 37
+  },
+  {
+    "category": "season",
+    "type": "league_leader",
+    "teams": [
+      "Chicago Sky"
+    ],
+    "question": "who was the rebounding king in the WNBA this past regular season?",
+    "gold_names": [
+      "Angel Reese"
+    ],
+    "gold_numbers": [],
+    "question_template": "Who led the WNBA in rebounds per game in the 2025 regular season?",
+    "rewritten": true,
+    "qid": 38
+  },
+  {
+    "category": "season",
+    "type": "league_leader",
+    "teams": [
+      "Phoenix Mercury"
+    ],
+    "question": "who was dishing out the most dimes in the wnba this season?",
+    "gold_names": [
+      "Alyssa Thomas"
+    ],
+    "gold_numbers": [],
+    "question_template": "Who led the WNBA in assists per game in the 2025 regular season?",
+    "rewritten": true,
+    "qid": 39
+  },
+  {
+    "category": "season",
+    "type": "league_leader",
+    "teams": [
+      "Seattle Storm"
+    ],
+    "question": "who was leading the league in steals per game in the 2025 regular season?",
+    "gold_names": [
+      "Gabby Williams"
+    ],
+    "gold_numbers": [],
+    "question_template": "Who led the WNBA in steals per game in the 2025 regular season?",
+    "rewritten": true,
+    "qid": 40
+  },
+  {
+    "category": "season",
+    "type": "playoff_game_top_scorer",
+    "teams": [
+      "Minnesota Lynx",
+      "Golden State Valkyries"
+    ],
+    "question": "who had the most points in game 1 of the 1st round between the valkyries and the lynx?",
+    "gold_names": [
+      "Napheesa Collier"
+    ],
+    "gold_numbers": [
+      20
+    ],
+    "question_template": "Who led all scorers in Game 1 of the First Round between the Valkyries and the Lynx?",
+    "rewritten": true,
+    "qid": 41
+  },
+  {
+    "category": "season",
+    "type": "playoff_game_top_scorer",
+    "teams": [
+      "Golden State Valkyries",
+      "Minnesota Lynx"
+    ],
+    "question": "who dropped the most points in game 2 of the 1st round between the lynx and the valkyries?",
+    "gold_names": [
+      "Napheesa Collier"
+    ],
+    "gold_numbers": [
+      24
+    ],
+    "question_template": "Who led all scorers in Game 2 of the First Round between the Lynx and the Valkyries?",
+    "rewritten": true,
+    "qid": 42
+  },
+  {
+    "category": "season",
+    "type": "playoff_game_top_scorer",
+    "teams": [
+      "Minnesota Lynx",
+      "Phoenix Mercury"
+    ],
+    "question": "who dropped the most points in game 1 of the semis between the mercury and the lynx?",
+    "gold_names": [
+      "Courtney Williams"
+    ],
+    "gold_numbers": [
+      23
+    ],
+    "question_template": "Who led all scorers in Game 1 of the Semifinals between the Mercury and the Lynx?",
+    "rewritten": true,
+    "qid": 43
+  },
+  {
+    "category": "season",
+    "type": "playoff_game_top_scorer",
+    "teams": [
+      "Phoenix Mercury",
+      "Minnesota Lynx"
+    ],
+    "question": "who dropped the most points in game 3 of the semis between the lynx and mercury?",
+    "gold_names": [
+      "Satou Sabally"
+    ],
+    "gold_numbers": [
+      23
+    ],
+    "question_template": "Who led all scorers in Game 3 of the Semifinals between the Lynx and the Mercury?",
+    "rewritten": true,
+    "qid": 44
+  },
+  {
+    "category": "season",
+    "type": "playoff_game_top_scorer",
+    "teams": [
+      "Phoenix Mercury",
+      "Minnesota Lynx"
+    ],
+    "question": "who dropped the most points in game 4 of the semis between the lynx and the mercury?",
+    "gold_names": [
+      "Kayla McBride"
+    ],
+    "gold_numbers": [
+      31
+    ],
+    "question_template": "Who led all scorers in Game 4 of the Semifinals between the Lynx and the Mercury?",
+    "rewritten": true,
+    "qid": 45
+  },
+  {
+    "category": "multi_step",
+    "type": "best_game_opponent_leader",
+    "teams": [
+      "Dallas Wings",
+      "Chicago Sky"
+    ],
+    "question": "In Arike Ogunbowale's highest-scoring game of the 2025 regular season, who led the opposing team in points?",
+    "gold_names": [
+      "Kamilla Cardoso"
+    ],
+    "gold_numbers": [],
+    "question_template": "In Arike Ogunbowale's highest-scoring game of the 2025 regular season, who led the opposing team in points?",
+    "rewritten": false,
+    "qid": 46
+  },
+  {
+    "category": "multi_step",
+    "type": "best_game_opponent_leader",
+    "teams": [
+      "Washington Mystics",
+      "Chicago Sky"
+    ],
+    "question": "in brittney sykes's highest-scoring game of the reg season, who dropped the most points for the other team?",
+    "gold_names": [
+      "Kamilla Cardoso"
+    ],
+    "gold_numbers": [],
+    "question_template": "In Brittney Sykes's highest-scoring game of the 2025 regular season, who led the opposing team in points?",
+    "rewritten": true,
+    "qid": 47
+  },
+  {
+    "category": "multi_step",
+    "type": "best_game_opponent_leader",
+    "teams": [
+      "Phoenix Mercury",
+      "Dallas Wings"
+    ],
+    "question": "in kahleah copper's highest-scoring game of the regular season, who scored the most for the other team?",
+    "gold_names": [
+      "Aziaha James"
+    ],
+    "gold_numbers": [],
+    "question_template": "In Kahleah Copper's highest-scoring game of the 2025 regular season, who led the opposing team in points?",
+    "rewritten": true,
+    "qid": 48
+  },
+  {
+    "category": "multi_step",
+    "type": "best_game_opponent_leader",
+    "teams": [
+      "Los Angeles Sparks",
+      "Golden State Valkyries"
+    ],
+    "question": "in kelsey plum's highest-scoring game of the 2025 regular season, who dropped the most points for the other team?",
+    "gold_names": [
+      "Tiffany Hayes"
+    ],
+    "gold_numbers": [],
+    "question_template": "In Kelsey Plum's highest-scoring game of the 2025 regular season, who led the opposing team in points?",
+    "rewritten": true,
+    "qid": 49
+  },
+  {
+    "category": "multi_step",
+    "type": "best_game_opponent_leader",
+    "teams": [
+      "Minnesota Lynx",
+      "Dallas Wings"
+    ],
+    "question": "In Napheesa Collier's highest-scoring game of the 2025 regular season, who led the opposing team in points?",
+    "gold_names": [
+      "Arike Ogunbowale"
+    ],
+    "gold_numbers": [],
+    "question_template": "In Napheesa Collier's highest-scoring game of the 2025 regular season, who led the opposing team in points?",
+    "rewritten": false,
+    "qid": 50
+  },
+  {
+    "category": "multi_step",
+    "type": "best_game_opponent_leader",
+    "teams": [
+      "Seattle Storm",
+      "Los Angeles Sparks"
+    ],
+    "question": "In Nneka Ogwumike's highest-scoring game of the 2025 regular season, who led the opposing team in points?",
+    "gold_names": [
+      "Rickea Jackson"
+    ],
+    "gold_numbers": [],
+    "question_template": "In Nneka Ogwumike's highest-scoring game of the 2025 regular season, who led the opposing team in points?",
+    "rewritten": false,
+    "qid": 51
+  },
+  {
+    "category": "multi_step",
+    "type": "best_game_opponent_leader",
+    "teams": [
+      "Dallas Wings",
+      "Los Angeles Sparks"
+    ],
+    "question": "In Paige Bueckers's highest-scoring game of the 2025 regular season, who led the opposing team in points?",
+    "gold_names": [
+      "Rickea Jackson"
+    ],
+    "gold_numbers": [],
+    "question_template": "In Paige Bueckers's highest-scoring game of the 2025 regular season, who led the opposing team in points?",
+    "rewritten": false,
+    "qid": 52
+  },
+  {
+    "category": "multi_step",
+    "type": "best_game_opponent_leader",
+    "teams": [
+      "Phoenix Mercury",
+      "Seattle Storm"
+    ],
+    "question": "In satou sabally's highest-scoring game of the 2025 reg season, who dropped the most points for the other team?",
+    "gold_names": [
+      "Skylar Diggins"
+    ],
+    "gold_numbers": [],
+    "question_template": "In Satou Sabally's highest-scoring game of the 2025 regular season, who led the opposing team in points?",
+    "rewritten": true,
+    "qid": 53
+  },
+  {
+    "category": "multi_step",
+    "type": "best_game_opponent_leader",
+    "teams": [
+      "Seattle Storm",
+      "Phoenix Mercury"
+    ],
+    "question": "in skylar diggins's highest-scoring game of the 2025 regular season, who dropped the most points for the other team?",
+    "gold_names": [
+      "Satou Sabally"
+    ],
+    "gold_numbers": [],
+    "question_template": "In Skylar Diggins's highest-scoring game of the 2025 regular season, who led the opposing team in points?",
+    "rewritten": true,
+    "qid": 54
+  },
+  {
+    "category": "multi_step",
+    "type": "team_best_game_top_scorer",
+    "teams": [
+      "Los Angeles Sparks",
+      "Seattle Storm"
+    ],
+    "question": "who dropped the most points for the sparks in their highest-scoring game of the regular season?",
+    "gold_names": [
+      "Rickea Jackson"
+    ],
+    "gold_numbers": [],
+    "question_template": "Who scored the most points for the Sparks in their highest-scoring game of the 2025 regular season?",
+    "rewritten": true,
+    "qid": 55
+  },
+  {
+    "category": "multi_step",
+    "type": "team_best_game_top_scorer",
+    "teams": [
+      "Phoenix Mercury",
+      "Chicago Sky"
+    ],
+    "question": "who dropped the most points for the mercury in their highest-scoring game of the regular season?",
+    "gold_names": [
+      "Sami Whitcomb"
+    ],
+    "gold_numbers": [],
+    "question_template": "Who scored the most points for the Mercury in their highest-scoring game of the 2025 regular season?",
+    "rewritten": true,
+    "qid": 56
+  },
+  {
+    "category": "multi_step",
+    "type": "team_best_game_top_scorer",
+    "teams": [
+      "Seattle Storm",
+      "Los Angeles Sparks"
+    ],
+    "question": "Who scored the most points for the Storm in their highest-scoring game of the 2025 regular season?",
+    "gold_names": [
+      "Nneka Ogwumike"
+    ],
+    "gold_numbers": [],
+    "question_template": "Who scored the most points for the Storm in their highest-scoring game of the 2025 regular season?",
+    "rewritten": false,
+    "qid": 57,
+    "review_note": "reverted to template: invented a date ('on mar 15')"
+  },
+  {
+    "category": "abstain",
+    "type": "ambiguous_game",
+    "teams": [
+      "Chicago Sky"
+    ],
+    "expect": "clarify",
+    "question": "Who scored the last basket in the Sky game?",
+    "qid": 58
+  },
+  {
+    "category": "abstain",
+    "type": "other_season",
+    "teams": [
+      "Chicago Sky"
+    ],
+    "expect": "decline",
+    "question": "What was the Sky's record in the 2023 season?",
+    "qid": 59
+  },
+  {
+    "category": "abstain",
+    "type": "ambiguous_game",
+    "teams": [
+      "Dallas Wings"
+    ],
+    "expect": "clarify",
+    "question": "Who scored the last basket in the Wings game?",
+    "qid": 60
+  },
+  {
+    "category": "abstain",
+    "type": "other_season",
+    "teams": [
+      "Dallas Wings"
+    ],
+    "expect": "decline",
+    "question": "What was the Wings record in the 2023 season?",
+    "qid": 61
+  },
+  {
+    "category": "abstain",
+    "type": "ambiguous_game",
+    "teams": [
+      "Golden State Valkyries"
+    ],
+    "expect": "clarify",
+    "question": "Who scored the last basket in the Valkyries game?",
+    "qid": 62
+  },
+  {
+    "category": "abstain",
+    "type": "other_season",
+    "teams": [
+      "Golden State Valkyries"
+    ],
+    "expect": "decline",
+    "question": "What was the Valkyries record in the 2023 season?",
+    "qid": 63
+  },
+  {
+    "category": "abstain",
+    "type": "ambiguous_game",
+    "teams": [
+      "Los Angeles Sparks"
+    ],
+    "expect": "clarify",
+    "question": "Who scored the last basket in the Sparks game?",
+    "qid": 64
+  },
+  {
+    "category": "abstain",
+    "type": "other_season",
+    "teams": [
+      "Los Angeles Sparks"
+    ],
+    "expect": "decline",
+    "question": "What was the Sparks record in the 2023 season?",
+    "qid": 65
+  },
+  {
+    "category": "abstain",
+    "type": "ambiguous_game",
+    "teams": [
+      "Minnesota Lynx"
+    ],
+    "expect": "clarify",
+    "question": "Who scored the last basket in the Lynx game?",
+    "qid": 66
+  },
+  {
+    "category": "abstain",
+    "type": "other_season",
+    "teams": [
+      "Minnesota Lynx"
+    ],
+    "expect": "decline",
+    "question": "What was the Lynx's record in the 2023 season?",
+    "qid": 67
+  },
+  {
+    "category": "abstain",
+    "type": "ambiguous_game",
+    "teams": [
+      "Phoenix Mercury"
+    ],
+    "expect": "clarify",
+    "question": "Who scored the last basket in the Mercury game?",
+    "qid": 68
+  },
+  {
+    "category": "abstain",
+    "type": "other_season",
+    "teams": [
+      "Phoenix Mercury"
+    ],
+    "expect": "decline",
+    "question": "What was the Mercury's record in the 2023 season?",
+    "qid": 69
+  },
+  {
+    "category": "abstain",
+    "type": "ambiguous_game",
+    "teams": [
+      "Seattle Storm"
+    ],
+    "expect": "clarify",
+    "question": "Who scored the last basket in the Storm game?",
+    "qid": 70
+  },
+  {
+    "category": "abstain",
+    "type": "other_season",
+    "teams": [
+      "Seattle Storm"
+    ],
+    "expect": "decline",
+    "question": "What was the Storm's record in the 2023 season?",
+    "qid": 71
+  },
+  {
+    "category": "abstain",
+    "type": "ambiguous_game",
+    "teams": [
+      "Washington Mystics"
+    ],
+    "expect": "clarify",
+    "question": "Who scored the last basket in the Mystics game?",
+    "qid": 72
+  },
+  {
+    "category": "abstain",
+    "type": "other_season",
+    "teams": [
+      "Washington Mystics"
+    ],
+    "expect": "decline",
+    "question": "What was the Mystics record in the 2023 season?",
+    "qid": 73
+  },
+  {
+    "category": "abstain",
+    "type": "nonexistent_game",
+    "teams": [
+      "Chicago Sky",
+      "Minnesota Lynx"
+    ],
+    "expect": "decline",
+    "question": "Who led the Lynx in rebounds at the Sky on July 3, 2025?",
+    "qid": 74
+  },
+  {
+    "category": "abstain",
+    "type": "nonexistent_game",
+    "teams": [
+      "Golden State Valkyries",
+      "Seattle Storm"
+    ],
+    "expect": "decline",
+    "question": "Who led the Storm in rebounds at the Valkyries on June 25, 2025?",
+    "qid": 75
+  },
+  {
+    "category": "abstain",
+    "type": "nonexistent_game",
+    "teams": [
+      "Minnesota Lynx",
+      "Phoenix Mercury"
+    ],
+    "expect": "decline",
+    "question": "Who led the Mercury in rebounds at the Lynx on June 20, 2025?",
+    "qid": 76
+  },
+  {
+    "category": "abstain",
+    "type": "out_of_scope",
+    "teams": [],
+    "expect": "decline",
+    "question": "How many points did LeBron James score in the 2025 NBA Finals?",
+    "qid": 77
+  },
+  {
+    "category": "abstain",
+    "type": "out_of_scope",
+    "teams": [],
+    "expect": "decline",
+    "question": "Who won the 2024 WNBA MVP?",
+    "qid": 78
+  },
+  {
+    "category": "abstain",
+    "type": "out_of_scope",
+    "teams": [],
+    "expect": "decline",
+    "question": "What was Diana Taurasi's scoring average in 2025?",
+    "qid": 79
+  },
+  {
+    "game_id": 401736349,
+    "type": "team_leader_box",
+    "question": "who led the storm in boards in the storm at mystics game on aug 24?",
+    "gold_names": [
+      "Dominique Malonga"
+    ],
+    "gold_numbers": [],
+    "category": "casual_game",
+    "v1_qid": 231,
+    "question_template": "Who led the Storm in rebounds in the Storm at Mystics game on August 24, 2025?",
+    "rewritten": true,
+    "qid": 80
+  },
+  {
+    "game_id": 401736349,
+    "type": "largest_lead",
+    "question": "what was the biggest lead in the storm at mystics game on aug 24 and which team had it?",
+    "gold_names": [
+      "Seattle Storm"
+    ],
+    "gold_numbers": [
+      14
+    ],
+    "category": "casual_game",
+    "v1_qid": 238,
+    "question_template": "What was the largest lead in the Storm at Mystics game on August 24, 2025, and which team held it?",
+    "rewritten": true,
+    "qid": 81
+  },
+  {
+    "game_id": 401736329,
+    "type": "second_half_turnovers",
+    "question": "which team had more TOs in the 2nd half of the fever vs sun game on aug 17?",
+    "gold_names": [
+      "Connecticut Sun"
+    ],
+    "gold_numbers": [],
+    "category": "casual_game",
+    "v1_qid": 265,
+    "question_template": "Which team committed more turnovers in the second half of the Fever at Sun game on August 17, 2025?",
+    "rewritten": true,
+    "qid": 82
+  },
+  {
+    "game_id": 401736329,
+    "type": "quarter_winner",
+    "question": "Which team scored more points in the third quarter of the Fever at Sun game on August 17, 2025, and how many?",
+    "gold_names": [
+      "Indiana Fever"
+    ],
+    "gold_numbers": [
+      23
+    ],
+    "category": "casual_game",
+    "v1_qid": 260,
+    "question_template": "Which team scored more points in the third quarter of the Fever at Sun game on August 17, 2025, and how many?",
+    "rewritten": false,
+    "qid": 83,
+    "review_note": "reverted to template: changed requested number to a margin ('by how many')"
+  },
+  {
+    "game_id": 401736269,
+    "type": "largest_lead",
+    "question": "what was the largest lead in the fever vs sky game on jul 27, and which team had it?",
+    "gold_names": [
+      "Indiana Fever"
+    ],
+    "gold_numbers": [
+      16
+    ],
+    "category": "casual_game",
+    "v1_qid": 97,
+    "question_template": "What was the largest lead in the Fever at Sky game on July 27, 2025, and which team held it?",
+    "rewritten": true,
+    "qid": 84
+  },
+  {
+    "game_id": 401736269,
+    "type": "q4_top_scorer",
+    "question": "who dropped the most points in the 4th of the fever vs sky game on jul 27?",
+    "gold_names": [
+      "Rebecca Allen"
+    ],
+    "gold_numbers": [],
+    "category": "casual_game",
+    "v1_qid": 94,
+    "question_template": "Who scored the most points in the fourth quarter of the Fever at Sky game on July 27, 2025?",
+    "rewritten": true,
+    "qid": 85
+  },
+  {
+    "game_id": 401736340,
+    "type": "quarter_winner",
+    "question": "which team dropped more points in the 1st qtr of the sky at liberty game on aug 21 and how many?",
+    "gold_names": [
+      "New York Liberty"
+    ],
+    "gold_numbers": [
+      23
+    ],
+    "category": "casual_game",
+    "v1_qid": 243,
+    "question_template": "Which team scored more points in the first quarter of the Sky at Liberty game on August 21, 2025, and how many?",
+    "rewritten": true,
+    "qid": 86
+  },
+  {
+    "game_id": 401736269,
+    "type": "first_three",
+    "question": "who hit the first three-pointer in the fever at sky game on jul 27?",
+    "gold_names": [
+      "Rachel Banham"
+    ],
+    "gold_numbers": [],
+    "category": "casual_game",
+    "v1_qid": 95,
+    "question_template": "Who made the first three-pointer of the Fever at Sky game on July 27, 2025?",
+    "rewritten": true,
+    "qid": 87
+  },
+  {
+    "game_id": 401736348,
+    "type": "quarter_winner",
+    "question": "Which team scored more points in the second quarter of the Sun at Sky game on August 23, 2025, and how many?",
+    "gold_names": [
+      "Chicago Sky"
+    ],
+    "gold_numbers": [
+      28
+    ],
+    "category": "casual_game",
+    "v1_qid": 48,
+    "question_template": "Which team scored more points in the second quarter of the Sun at Sky game on August 23, 2025, and how many?",
+    "rewritten": false,
+    "qid": 88,
+    "review_note": "reverted to template: changed requested number to a margin ('by how many')"
+  },
+  {
+    "game_id": 401736303,
+    "type": "first_three",
+    "question": "who hit the first 3-pointer in the suns at sparks game on aug 7?",
+    "gold_names": [
+      "Bria Hartley"
+    ],
+    "gold_numbers": [],
+    "category": "casual_game",
+    "v1_qid": 228,
+    "question_template": "Who made the first three-pointer of the Sun at Sparks game on August 7, 2025?",
+    "rewritten": true,
+    "qid": 89
+  },
+  {
+    "game_id": 401736295,
+    "type": "quarter_winner",
+    "question": "which team dropped more points in Q2 of the fever at storm game on aug 3, and how many?",
+    "gold_names": [
+      "Indiana Fever"
+    ],
+    "gold_numbers": [
+      25
+    ],
+    "category": "casual_game",
+    "v1_qid": 155,
+    "question_template": "Which team scored more points in the second quarter of the Fever at Storm game on August 3, 2025, and how many?",
+    "rewritten": true,
+    "qid": 90
+  },
+  {
+    "game_id": 401820333,
+    "type": "team_leader_box",
+    "question": "who dropped the most points for the lynx in the lynx at mercury game on sep 26?",
+    "gold_names": [
+      "Natisha Hiedeman"
+    ],
+    "gold_numbers": [],
+    "category": "casual_game",
+    "v1_qid": 36,
+    "question_template": "Who led the Lynx in points in the Lynx at Mercury game on September 26, 2025?",
+    "rewritten": true,
+    "qid": 91
+  },
+  {
+    "game_id": 401736314,
+    "type": "first_three",
+    "question": "who hit the first 3 of the suns at aces game on aug 10?",
+    "gold_names": [
+      "Jackie Young"
+    ],
+    "gold_numbers": [],
+    "category": "casual_game",
+    "v1_qid": 23,
+    "question_template": "Who made the first three-pointer of the Sun at Aces game on August 10, 2025?",
+    "rewritten": true,
+    "qid": 92
+  },
+  {
+    "game_id": 401736171,
+    "type": "quarter_winner",
+    "question": "Which team scored more points in the first quarter of the Sparks at Aces game on June 11, 2025, and how many?",
+    "gold_names": [
+      "Los Angeles Sparks"
+    ],
+    "gold_numbers": [
+      29
+    ],
+    "category": "casual_game",
+    "v1_qid": 137,
+    "question_template": "Which team scored more points in the first quarter of the Sparks at Aces game on June 11, 2025, and how many?",
+    "rewritten": false,
+    "qid": 93,
+    "review_note": "reverted to template: changed requested number to a margin ('by how much')"
+  },
+  {
+    "game_id": 401820272,
+    "type": "final_score",
+    "question": "what was the final score of the valkyries at lynx game on sep 14?",
+    "gold_names": [],
+    "gold_numbers": [
+      101,
+      72
+    ],
+    "category": "casual_game",
+    "v1_qid": 207,
+    "question_template": "What was the final score of the Valkyries at Lynx game on September 14, 2025?",
+    "rewritten": true,
+    "qid": 94
+  },
+  {
+    "game_id": 401736303,
+    "type": "q4_top_scorer",
+    "question": "who dropped the most points in the 4th of the sun at sparks game on aug 7?",
+    "gold_names": [
+      "Kelsey Plum"
+    ],
+    "gold_numbers": [],
+    "category": "casual_game",
+    "v1_qid": 227,
+    "question_template": "Who scored the most points in the fourth quarter of the Sun at Sparks game on August 7, 2025?",
+    "rewritten": true,
+    "qid": 95
+  },
+  {
+    "game_id": 401736154,
+    "type": "largest_lead",
+    "question": "what was the largest lead in the aces at storm game on jun 1, and which team had it?",
+    "gold_names": [
+      "Las Vegas Aces"
+    ],
+    "gold_numbers": [
+      17
+    ],
+    "category": "casual_game",
+    "v1_qid": 177,
+    "question_template": "What was the largest lead in the Aces at Storm game on June 1, 2025, and which team held it?",
+    "rewritten": true,
+    "qid": 96
+  },
+  {
+    "game_id": 401736383,
+    "type": "player_points_box",
+    "question": "how many points did napheesa collier drop in the lynx vs valkyries game on sept 6?",
+    "gold_names": [],
+    "gold_numbers": [
+      20
+    ],
+    "category": "casual_game",
+    "v1_qid": 162,
+    "question_template": "How many points did Napheesa Collier score in the Lynx at Valkyries game on September 6, 2025?",
+    "rewritten": true,
+    "qid": 97
+  },
+  {
+    "game_id": 401820330,
+    "type": "player_points_box",
+    "question": "how many points did alyssa thomas drop in the mercury at lynx game on sep 23?",
+    "gold_names": [],
+    "gold_numbers": [
+      19
+    ],
+    "category": "casual_game",
+    "v1_qid": 10,
+    "question_template": "How many points did Alyssa Thomas score in the Mercury at Lynx game on September 23, 2025?",
+    "rewritten": true,
+    "qid": 98
+  },
+  {
+    "game_id": 401736295,
+    "type": "team_leader_box",
+    "question": "who had the dimes for the storm in the fever at storm game on aug 3?",
+    "gold_names": [
+      "Gabby Williams"
+    ],
+    "gold_numbers": [],
+    "category": "casual_game",
+    "v1_qid": 152,
+    "question_template": "Who led the Storm in assists in the Fever at Storm game on August 3, 2025?",
+    "rewritten": true,
+    "qid": 99
+  },
+  {
+    "game_id": 401736312,
+    "type": "final_score",
+    "question": "what was the final score of the storm at sparks game on aug 10?",
+    "gold_names": [],
+    "gold_numbers": [
+      94,
+      91
+    ],
+    "category": "casual_game",
+    "v1_qid": 101,
+    "question_template": "What was the final score of the Storm at Sparks game on August 10, 2025?",
+    "rewritten": true,
+    "qid": 100
+  },
+  {
+    "game_id": 401736207,
+    "type": "second_half_turnovers",
+    "question": "which team had more turnovers in the 2nd half of the sparks vs fever game on jun 26?",
+    "gold_names": [
+      "Indiana Fever"
+    ],
+    "gold_numbers": [],
+    "category": "casual_game",
+    "v1_qid": 115,
+    "question_template": "Which team committed more turnovers in the second half of the Sparks at Fever game on June 26, 2025?",
+    "rewritten": true,
+    "qid": 101
+  },
+  {
+    "game_id": 401736383,
+    "type": "last_points",
+    "question": "who dropped the final points in the lynx vs valkyries game on sep 6?",
+    "gold_names": [
+      "Kayla McBride"
+    ],
+    "gold_numbers": [],
+    "category": "casual_game",
+    "v1_qid": 167,
+    "question_template": "Who scored the final points of the Lynx at Valkyries game on September 6, 2025?",
+    "rewritten": true,
+    "qid": 102
+  },
+  {
+    "game_id": 401736316,
+    "type": "final_score",
+    "question": "what was the final score of the wings at fever game on aug 12?",
+    "gold_names": [],
+    "gold_numbers": [
+      80,
+      81
+    ],
+    "category": "casual_game",
+    "v1_qid": 189,
+    "question_template": "What was the final score of the Wings at Fever game on August 12, 2025?",
+    "rewritten": true,
+    "qid": 103
+  },
+  {
+    "game_id": 401736295,
+    "type": "first_three",
+    "question": "who hit the first three-pointer in the fever at storm game on aug 3?",
+    "gold_names": [
+      "Nneka Ogwumike"
+    ],
+    "gold_numbers": [],
+    "category": "casual_game",
+    "v1_qid": 157,
+    "question_template": "Who made the first three-pointer of the Fever at Storm game on August 3, 2025?",
+    "rewritten": true,
+    "qid": 104
+  },
+  {
+    "game_id": 401736383,
+    "type": "first_three",
+    "question": "who hit the first 3-pointer in the lynx vs valkyries game on sep 6?",
+    "gold_names": [
+      "Napheesa Collier"
+    ],
+    "gold_numbers": [],
+    "category": "casual_game",
+    "v1_qid": 166,
+    "question_template": "Who made the first three-pointer of the Lynx at Valkyries game on September 6, 2025?",
+    "rewritten": true,
+    "qid": 105
+  },
+  {
+    "game_id": 401820333,
+    "type": "q4_top_scorer",
+    "question": "who dropped the most points in the 4th of the lynx at mercury game on sep 26?",
+    "gold_names": [
+      "Satou Sabally"
+    ],
+    "gold_numbers": [],
+    "category": "casual_game",
+    "v1_qid": 40,
+    "question_template": "Who scored the most points in the fourth quarter of the Lynx at Mercury game on September 26, 2025?",
+    "rewritten": true,
+    "qid": 106
+  },
+  {
+    "game_id": 401736295,
+    "type": "largest_lead",
+    "question": "what was the biggest lead in the fever at storm game on aug 3 and which team had it?",
+    "gold_names": [
+      "Indiana Fever"
+    ],
+    "gold_numbers": [
+      13
+    ],
+    "category": "casual_game",
+    "v1_qid": 159,
+    "question_template": "What was the largest lead in the Fever at Storm game on August 3, 2025, and which team held it?",
+    "rewritten": true,
+    "qid": 107
+  },
+  {
+    "game_id": 401736190,
+    "type": "quarter_winner",
+    "question": "which team dropped more points in the 1st qtr of the fever at valkyries game on jun 19 and how many?",
+    "gold_names": [
+      "Indiana Fever"
+    ],
+    "gold_numbers": [
+      21
+    ],
+    "category": "casual_game",
+    "v1_qid": 3,
+    "question_template": "Which team scored more points in the first quarter of the Fever at Valkyries game on June 19, 2025, and how many?",
+    "rewritten": true,
+    "qid": 108
+  },
+  {
+    "game_id": 401820272,
+    "type": "largest_lead",
+    "question": "what was the largest lead in the valkyries at lynx game on sep 14, and which team had it?",
+    "gold_names": [
+      "Minnesota Lynx"
+    ],
+    "gold_numbers": [
+      36
+    ],
+    "category": "casual_game",
+    "v1_qid": 212,
+    "question_template": "What was the largest lead in the Valkyries at Lynx game on September 14, 2025, and which team held it?",
+    "rewritten": true,
+    "qid": 109
+  },
+  {
+    "game_id": 401736171,
+    "type": "player_points_box",
+    "question": "how many points did chelsea gray drop in the sparks at aces game on jun 11?",
+    "gold_names": [],
+    "gold_numbers": [
+      28
+    ],
+    "category": "casual_game",
+    "v1_qid": 135,
+    "question_template": "How many points did Chelsea Gray score in the Sparks at Aces game on June 11, 2025?",
+    "rewritten": true,
+    "qid": 110
+  },
+  {
+    "game_id": 401820330,
+    "type": "largest_lead",
+    "question": "what was the biggest lead in the mercury at lynx game on sep 23 and who had it?",
+    "gold_names": [
+      "Minnesota Lynx"
+    ],
+    "gold_numbers": [
+      20
+    ],
+    "category": "casual_game",
+    "v1_qid": 16,
+    "question_template": "What was the largest lead in the Mercury at Lynx game on September 23, 2025, and which team held it?",
+    "rewritten": true,
+    "qid": 111
+  },
+  {
+    "game_id": 401820330,
+    "type": "last_points",
+    "question": "who dropped the last points in the mercury vs lynx game on sep 23?",
+    "gold_names": [
+      "Alyssa Thomas"
+    ],
+    "gold_numbers": [],
+    "category": "casual_game",
+    "v1_qid": 15,
+    "question_template": "Who scored the final points of the Mercury at Lynx game on September 23, 2025?",
+    "rewritten": true,
+    "qid": 112
+  },
+  {
+    "game_id": 401820330,
+    "type": "team_leader_box",
+    "question": "who had the most dimes for the lynx in the mercury at lynx game on sep 23?",
+    "gold_names": [
+      "Courtney Williams"
+    ],
+    "gold_numbers": [],
+    "category": "casual_game",
+    "v1_qid": 9,
+    "question_template": "Who led the Lynx in assists in the Mercury at Lynx game on September 23, 2025?",
+    "rewritten": true,
+    "qid": 113
+  },
+  {
+    "game_id": 401736329,
+    "type": "team_leader_box",
+    "question": "who had the dimes for the fever in the fever at sun game on aug 17?",
+    "gold_names": [
+      "Odyssey Sims"
+    ],
+    "gold_numbers": [],
+    "category": "casual_game",
+    "v1_qid": 257,
+    "question_template": "Who led the Fever in assists in the Fever at Sun game on August 17, 2025?",
+    "rewritten": true,
+    "qid": 114
+  },
+  {
+    "game_id": 401736303,
+    "type": "final_score",
+    "question": "what was the final score of the suns at sparks game on aug 7?",
+    "gold_names": [],
+    "gold_numbers": [
+      102,
+      91
+    ],
+    "category": "casual_game",
+    "v1_qid": 225,
+    "question_template": "What was the final score of the Sun at Sparks game on August 7, 2025?",
+    "rewritten": true,
+    "qid": 115
+  },
+  {
+    "game_id": 401736293,
+    "type": "largest_lead",
+    "question": "what was the largest lead in the mercury vs sky game on aug 3, and which team had it?",
+    "gold_names": [
+      "Phoenix Mercury"
+    ],
+    "gold_numbers": [
+      26
+    ],
+    "category": "casual_game",
+    "v1_qid": 61,
+    "question_template": "What was the largest lead in the Mercury at Sky game on August 3, 2025, and which team held it?",
+    "rewritten": true,
+    "qid": 116
+  },
+  {
+    "game_id": 401736295,
+    "type": "player_points_box",
+    "question": "how many points did ezi magbegor drop in the fever at storm game on aug 3?",
+    "gold_names": [],
+    "gold_numbers": [
+      8
+    ],
+    "category": "casual_game",
+    "v1_qid": 153,
+    "question_template": "How many points did Ezi Magbegor score in the Fever at Storm game on August 3, 2025?",
+    "rewritten": true,
+    "qid": 117
+  },
+  {
+    "game_id": 401736190,
+    "type": "largest_lead",
+    "question": "what was the biggest lead in the fever at valkyries game on jun 19, and which team had it?",
+    "gold_names": [
+      "Indiana Fever"
+    ],
+    "gold_numbers": [
+      13
+    ],
+    "category": "casual_game",
+    "v1_qid": 7,
+    "question_template": "What was the largest lead in the Fever at Valkyries game on June 19, 2025, and which team held it?",
+    "rewritten": true,
+    "qid": 118
+  },
+  {
+    "game_id": 401736360,
+    "type": "quarter_winner",
+    "question": "Which team scored more points in the third quarter of the Sky at Mercury game on August 28, 2025, and how many?",
+    "gold_names": [
+      "Chicago Sky"
+    ],
+    "gold_numbers": [
+      25
+    ],
+    "category": "casual_game",
+    "v1_qid": 199,
+    "question_template": "Which team scored more points in the third quarter of the Sky at Mercury game on August 28, 2025, and how many?",
+    "rewritten": false,
+    "qid": 119,
+    "review_note": "reverted to template: ambiguous number ('what was the total')"
+  },
+  {
+    "game_id": 401736197,
+    "type": "final_score",
+    "question": "what was the final score of the wings vs mystics game on jun 22?",
+    "gold_names": [],
+    "gold_numbers": [
+      91,
+      88
+    ],
+    "category": "casual_game",
+    "v1_qid": 118,
+    "question_template": "What was the final score of the Wings at Mystics game on June 22, 2025?",
+    "rewritten": true,
+    "qid": 120
+  },
+  {
+    "game_id": 401736376,
+    "type": "final_score",
+    "question": "what was the final score of the mercury vs mystics on sep 4?",
+    "gold_names": [],
+    "gold_numbers": [
+      69,
+      75
+    ],
+    "category": "casual_game",
+    "v1_qid": 83,
+    "question_template": "What was the final score of the Mercury at Mystics game on September 4, 2025?",
+    "rewritten": true,
+    "qid": 121
+  },
+  {
+    "game_id": 401736207,
+    "type": "q4_top_scorer",
+    "question": "who dropped the most points in the 4th of the sparks at fever game on jun 26?",
+    "gold_names": [
+      "Azura Stevens"
+    ],
+    "gold_numbers": [],
+    "category": "casual_game",
+    "v1_qid": 112,
+    "question_template": "Who scored the most points in the fourth quarter of the Sparks at Fever game on June 26, 2025?",
+    "rewritten": true,
+    "qid": 122
+  },
+  {
+    "game_id": 401736266,
+    "type": "second_half_turnovers",
+    "question": "which team had more TOs in the 2nd half of the mercury at liberty game on jul 25?",
+    "gold_names": [
+      "New York Liberty"
+    ],
+    "gold_numbers": [],
+    "category": "casual_game",
+    "v1_qid": 151,
+    "question_template": "Which team committed more turnovers in the second half of the Mercury at Liberty game on July 25, 2025?",
+    "rewritten": true,
+    "qid": 123
+  },
+  {
+    "game_id": 401736292,
+    "type": "player_points_box",
+    "question": "how many points did emma meesseman score in the lib at sun game on aug 3, 2025?",
+    "gold_names": [],
+    "gold_numbers": [
+      11
+    ],
+    "category": "casual_game",
+    "v1_qid": 215,
+    "question_template": "How many points did Emma Meesseman score in the Liberty at Sun game on August 3, 2025?",
+    "rewritten": true,
+    "qid": 124
+  },
+  {
+    "game_id": 401736348,
+    "type": "first_three",
+    "question": "Who made the first three-pointer of the Sun at Sky game on August 23, 2025?",
+    "gold_names": [
+      "Marina Mabrey"
+    ],
+    "gold_numbers": [],
+    "category": "casual_game",
+    "v1_qid": 50,
+    "question_template": "Who made the first three-pointer of the Sun at Sky game on August 23, 2025?",
+    "rewritten": false,
+    "qid": 125,
+    "review_note": "reverted to template: added a team filter and a quarter ('for the suns', 'Q4')"
+  },
+  {
+    "game_id": 401736384,
+    "type": "largest_lead",
+    "question": "what was the largest lead in the fever at mystics game on sept 7, and which team had it?",
+    "gold_names": [
+      "Indiana Fever"
+    ],
+    "gold_numbers": [
+      33
+    ],
+    "category": "casual_game",
+    "v1_qid": 132,
+    "question_template": "What was the largest lead in the Fever at Mystics game on September 7, 2025, and which team held it?",
+    "rewritten": true,
+    "qid": 126
+  },
+  {
+    "game_id": 401736293,
+    "type": "first_three",
+    "question": "who hit the first 3-pointer in the mercury vs sky game on aug 3?",
+    "gold_names": [
+      "Michaela Onyenwere"
+    ],
+    "gold_numbers": [],
+    "category": "casual_game",
+    "v1_qid": 59,
+    "question_template": "Who made the first three-pointer of the Mercury at Sky game on August 3, 2025?",
+    "rewritten": true,
+    "qid": 127
+  },
+  {
+    "game_id": 401736383,
+    "type": "final_score",
+    "question": "what was the final score of the lynx at valkyries game on sep 6?",
+    "gold_names": [],
+    "gold_numbers": [
+      72,
+      78
+    ],
+    "category": "casual_game",
+    "v1_qid": 163,
+    "question_template": "What was the final score of the Lynx at Valkyries game on September 6, 2025?",
+    "rewritten": true,
+    "qid": 128
+  },
+  {
+    "game_id": 401736136,
+    "type": "quarter_winner",
+    "question": "which team dropped more points in the 3rd Q of the mystics at mercury game on may 25, and how many?",
+    "gold_names": [
+      "Washington Mystics"
+    ],
+    "gold_numbers": [
+      22
+    ],
+    "category": "casual_game",
+    "v1_qid": 75,
+    "question_template": "Which team scored more points in the third quarter of the Mystics at Mercury game on May 25, 2025, and how many?",
+    "rewritten": true,
+    "qid": 129
+  },
+  {
+    "game_id": 401736384,
+    "type": "final_score",
+    "question": "what was the final score of the fever at mystics game on sep 7?",
+    "gold_names": [],
+    "gold_numbers": [
+      65,
+      94
+    ],
+    "category": "casual_game",
+    "v1_qid": 127,
+    "question_template": "What was the final score of the Fever at Mystics game on September 7, 2025?",
+    "rewritten": true,
+    "qid": 130
+  },
+  {
+    "game_id": 401736190,
+    "type": "player_points_box",
+    "question": "how many points did sophie cunningham drop in the fever at valkyries game on jun 19?",
+    "gold_names": [],
+    "gold_numbers": [
+      9
+    ],
+    "category": "casual_game",
+    "v1_qid": 1,
+    "question_template": "How many points did Sophie Cunningham score in the Fever at Valkyries game on June 19, 2025?",
+    "rewritten": true,
+    "qid": 131
+  },
+  {
+    "game_id": 401736383,
+    "type": "second_half_turnovers",
+    "question": "which team had more turnovers in the 2nd half of the lynx at valkyries game on sep 6?",
+    "gold_names": [
+      "Golden State Valkyries"
+    ],
+    "gold_numbers": [],
+    "category": "casual_game",
+    "v1_qid": 169,
+    "question_template": "Which team committed more turnovers in the second half of the Lynx at Valkyries game on September 6, 2025?",
+    "rewritten": true,
+    "qid": 132
+  },
+  {
+    "game_id": 401736314,
+    "type": "quarter_winner",
+    "question": "Which team scored more points in the first quarter of the Sun at Aces game on August 10, 2025, and how many?",
+    "gold_names": [
+      "Connecticut Sun"
+    ],
+    "gold_numbers": [
+      31
+    ],
+    "category": "casual_game",
+    "v1_qid": 21,
+    "question_template": "Which team scored more points in the first quarter of the Sun at Aces game on August 10, 2025, and how many?",
+    "rewritten": false,
+    "qid": 133,
+    "review_note": "reverted to template: ambiguous number ('what's the total')"
+  },
+  {
+    "game_id": 401736197,
+    "type": "player_points_box",
+    "question": "how many points did arike ogunbowale drop in the wings at mystics game on jun 22?",
+    "gold_names": [],
+    "gold_numbers": [
+      27
+    ],
+    "category": "casual_game",
+    "v1_qid": 117,
+    "question_template": "How many points did Arike Ogunbowale score in the Wings at Mystics game on June 22, 2025?",
+    "rewritten": true,
+    "qid": 134
+  },
+  {
+    "game_id": 401736329,
+    "type": "final_score",
+    "question": "what was the final score of the fever at sun game on aug 17?",
+    "gold_names": [],
+    "gold_numbers": [
+      93,
+      99
+    ],
+    "category": "casual_game",
+    "v1_qid": 259,
+    "question_template": "What was the final score of the Fever at Sun game on August 17, 2025?",
+    "rewritten": true,
+    "qid": 135
+  },
+  {
+    "game_id": 401781604,
+    "type": "second_half_turnovers",
+    "question": "which team had more TOs in the 2nd half of the collier vs clark game on jul 19?",
+    "gold_names": [
+      "TEAM COLLIER"
+    ],
+    "gold_numbers": [],
+    "category": "casual_game",
+    "v1_qid": 71,
+    "question_template": "Which team committed more turnovers in the second half of the TEAM COLLIER at TEAM CLARK game on July 19, 2025?",
+    "rewritten": true,
+    "qid": 136
+  },
+  {
+    "game_id": 401736312,
+    "type": "first_three",
+    "question": "who hit the first 3-pointer in the storm vs sparks game on aug 10?",
+    "gold_names": [
+      "Azura Stevens"
+    ],
+    "gold_numbers": [],
+    "category": "casual_game",
+    "v1_qid": 104,
+    "question_template": "Who made the first three-pointer of the Storm at Sparks game on August 10, 2025?",
+    "rewritten": true,
+    "qid": 137
+  },
+  {
+    "game_id": 401736171,
+    "type": "largest_lead",
+    "question": "what was the biggest lead in the sparks at aces game on jun 11, and which team had it?",
+    "gold_names": [
+      "Los Angeles Sparks"
+    ],
+    "gold_numbers": [
+      20
+    ],
+    "category": "casual_game",
+    "v1_qid": 141,
+    "question_template": "What was the largest lead in the Sparks at Aces game on June 11, 2025, and which team held it?",
+    "rewritten": true,
+    "qid": 138
+  },
+  {
+    "game_id": 401736349,
+    "type": "first_three",
+    "question": "who hit the first 3-pointer in the storm at mystics game on aug 24?",
+    "gold_names": [
+      "Nneka Ogwumike"
+    ],
+    "gold_numbers": [],
+    "category": "casual_game",
+    "v1_qid": 236,
+    "question_template": "Who made the first three-pointer of the Storm at Mystics game on August 24, 2025?",
+    "rewritten": true,
+    "qid": 139
+  }
+]

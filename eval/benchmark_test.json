@@ -1,0 +1,2853 @@
+[
+  {
+    "game_id": 401736190,
+    "type": "team_leader_box",
+    "question": "Who led the Valkyries in rebounds in the Fever at Valkyries game on June 19, 2025?",
+    "gold_names": [
+      "Kayla Thornton"
+    ],
+    "gold_numbers": [],
+    "qid": 0
+  },
+  {
+    "game_id": 401736190,
+    "type": "player_points_box",
+    "question": "How many points did Sophie Cunningham score in the Fever at Valkyries game on June 19, 2025?",
+    "gold_names": [],
+    "gold_numbers": [
+      9
+    ],
+    "qid": 1
+  },
+  {
+    "game_id": 401736190,
+    "type": "final_score",
+    "question": "What was the final score of the Fever at Valkyries game on June 19, 2025?",
+    "gold_names": [],
+    "gold_numbers": [
+      88,
+      77
+    ],
+    "qid": 2
+  },
+  {
+    "game_id": 401736190,
+    "type": "quarter_winner",
+    "question": "Which team scored more points in the first quarter of the Fever at Valkyries game on June 19, 2025, and how many?",
+    "gold_names": [
+      "Indiana Fever"
+    ],
+    "gold_numbers": [
+      21
+    ],
+    "qid": 3
+  },
+  {
+    "game_id": 401736190,
+    "type": "q4_top_scorer",
+    "question": "Who scored the most points in the fourth quarter of the Fever at Valkyries game on June 19, 2025?",
+    "gold_names": [
+      "Tiffany Hayes"
+    ],
+    "gold_numbers": [],
+    "info_points": 8,
+    "qid": 4
+  },
+  {
+    "game_id": 401736190,
+    "type": "first_three",
+    "question": "Who made the first three-pointer of the Fever at Valkyries game on June 19, 2025?",
+    "gold_names": [
+      "Kayla Thornton"
+    ],
+    "gold_numbers": [],
+    "qid": 5
+  },
+  {
+    "game_id": 401736190,
+    "type": "last_points",
+    "question": "Who scored the final points of the Fever at Valkyries game on June 19, 2025?",
+    "gold_names": [
+      "Laeticia Amihere"
+    ],
+    "gold_numbers": [],
+    "qid": 6
+  },
+  {
+    "game_id": 401736190,
+    "type": "largest_lead",
+    "question": "What was the largest lead in the Fever at Valkyries game on June 19, 2025, and which team held it?",
+    "gold_names": [
+      "Indiana Fever"
+    ],
+    "gold_numbers": [
+      13
+    ],
+    "qid": 7
+  },
+  {
+    "game_id": 401736190,
+    "type": "second_half_turnovers",
+    "question": "Which team committed more turnovers in the second half of the Fever at Valkyries game on June 19, 2025?",
+    "gold_names": [
+      "Indiana Fever"
+    ],
+    "gold_numbers": [],
+    "qid": 8
+  },
+  {
+    "game_id": 401820330,
+    "type": "team_leader_box",
+    "question": "Who led the Lynx in assists in the Mercury at Lynx game on September 23, 2025?",
+    "gold_names": [
+      "Courtney Williams"
+    ],
+    "gold_numbers": [],
+    "qid": 9
+  },
+  {
+    "game_id": 401820330,
+    "type": "player_points_box",
+    "question": "How many points did Alyssa Thomas score in the Mercury at Lynx game on September 23, 2025?",
+    "gold_names": [],
+    "gold_numbers": [
+      19
+    ],
+    "qid": 10
+  },
+  {
+    "game_id": 401820330,
+    "type": "final_score",
+    "question": "What was the final score of the Mercury at Lynx game on September 23, 2025?",
+    "gold_names": [],
+    "gold_numbers": [
+      83,
+      89
+    ],
+    "qid": 11
+  },
+  {
+    "game_id": 401820330,
+    "type": "quarter_winner",
+    "question": "Which team scored more points in the fourth quarter of the Mercury at Lynx game on September 23, 2025, and how many?",
+    "gold_names": [
+      "Phoenix Mercury"
+    ],
+    "gold_numbers": [
+      25
+    ],
+    "qid": 12
+  },
+  {
+    "game_id": 401820330,
+    "type": "q4_top_scorer",
+    "question": "Who scored the most points in the fourth quarter of the Mercury at Lynx game on September 23, 2025?",
+    "gold_names": [
+      "Satou Sabally"
+    ],
+    "gold_numbers": [],
+    "info_points": 11,
+    "qid": 13
+  },
+  {
+    "game_id": 401820330,
+    "type": "first_three",
+    "question": "Who made the first three-pointer of the Mercury at Lynx game on September 23, 2025?",
+    "gold_names": [
+      "Satou Sabally"
+    ],
+    "gold_numbers": [],
+    "qid": 14
+  },
+  {
+    "game_id": 401820330,
+    "type": "last_points",
+    "question": "Who scored the final points of the Mercury at Lynx game on September 23, 2025?",
+    "gold_names": [
+      "Alyssa Thomas"
+    ],
+    "gold_numbers": [],
+    "qid": 15
+  },
+  {
+    "game_id": 401820330,
+    "type": "largest_lead",
+    "question": "What was the largest lead in the Mercury at Lynx game on September 23, 2025, and which team held it?",
+    "gold_names": [
+      "Minnesota Lynx"
+    ],
+    "gold_numbers": [
+      20
+    ],
+    "qid": 16
+  },
+  {
+    "game_id": 401820330,
+    "type": "second_half_turnovers",
+    "question": "Which team committed more turnovers in the second half of the Mercury at Lynx game on September 23, 2025?",
+    "gold_names": [
+      "Minnesota Lynx"
+    ],
+    "gold_numbers": [],
+    "qid": 17
+  },
+  {
+    "game_id": 401736314,
+    "type": "team_leader_box",
+    "question": "Who led the Sun in assists in the Sun at Aces game on August 10, 2025?",
+    "gold_names": [
+      "Leila Lacan"
+    ],
+    "gold_numbers": [],
+    "qid": 18
+  },
+  {
+    "game_id": 401736314,
+    "type": "player_points_box",
+    "question": "How many points did A'ja Wilson score in the Sun at Aces game on August 10, 2025?",
+    "gold_names": [],
+    "gold_numbers": [
+      32
+    ],
+    "qid": 19
+  },
+  {
+    "game_id": 401736314,
+    "type": "final_score",
+    "question": "What was the final score of the Sun at Aces game on August 10, 2025?",
+    "gold_names": [],
+    "gold_numbers": [
+      94,
+      86
+    ],
+    "qid": 20
+  },
+  {
+    "game_id": 401736314,
+    "type": "quarter_winner",
+    "question": "Which team scored more points in the first quarter of the Sun at Aces game on August 10, 2025, and how many?",
+    "gold_names": [
+      "Connecticut Sun"
+    ],
+    "gold_numbers": [
+      31
+    ],
+    "qid": 21
+  },
+  {
+    "game_id": 401736314,
+    "type": "q4_top_scorer",
+    "question": "Who scored the most points in the fourth quarter of the Sun at Aces game on August 10, 2025?",
+    "gold_names": [
+      "A'ja Wilson"
+    ],
+    "gold_numbers": [],
+    "info_points": 12,
+    "qid": 22
+  },
+  {
+    "game_id": 401736314,
+    "type": "first_three",
+    "question": "Who made the first three-pointer of the Sun at Aces game on August 10, 2025?",
+    "gold_names": [
+      "Jackie Young"
+    ],
+    "gold_numbers": [],
+    "qid": 23
+  },
+  {
+    "game_id": 401736314,
+    "type": "last_points",
+    "question": "Who scored the final points of the Sun at Aces game on August 10, 2025?",
+    "gold_names": [
+      "Marina Mabrey"
+    ],
+    "gold_numbers": [],
+    "qid": 24
+  },
+  {
+    "game_id": 401736314,
+    "type": "largest_lead",
+    "question": "What was the largest lead in the Sun at Aces game on August 10, 2025, and which team held it?",
+    "gold_names": [
+      "Las Vegas Aces"
+    ],
+    "gold_numbers": [
+      13
+    ],
+    "qid": 25
+  },
+  {
+    "game_id": 401736314,
+    "type": "second_half_turnovers",
+    "question": "Which team committed more turnovers in the second half of the Sun at Aces game on August 10, 2025?",
+    "gold_names": [
+      "Las Vegas Aces"
+    ],
+    "gold_numbers": [],
+    "qid": 26
+  },
+  {
+    "game_id": 401736315,
+    "type": "team_leader_box",
+    "question": "Who led the Valkyries in assists in the Sun at Valkyries game on August 11, 2025?",
+    "gold_names": [
+      "Veronica Burton"
+    ],
+    "gold_numbers": [],
+    "qid": 27
+  },
+  {
+    "game_id": 401736315,
+    "type": "player_points_box",
+    "question": "How many points did Aneesah Morrow score in the Sun at Valkyries game on August 11, 2025?",
+    "gold_names": [],
+    "gold_numbers": [
+      13
+    ],
+    "qid": 28
+  },
+  {
+    "game_id": 401736315,
+    "type": "final_score",
+    "question": "What was the final score of the Sun at Valkyries game on August 11, 2025?",
+    "gold_names": [],
+    "gold_numbers": [
+      74,
+      57
+    ],
+    "qid": 29
+  },
+  {
+    "game_id": 401736315,
+    "type": "quarter_winner",
+    "question": "Which team scored more points in the first quarter of the Sun at Valkyries game on August 11, 2025, and how many?",
+    "gold_names": [
+      "Golden State Valkyries"
+    ],
+    "gold_numbers": [
+      14
+    ],
+    "qid": 30
+  },
+  {
+    "game_id": 401736315,
+    "type": "q4_top_scorer",
+    "question": "Who scored the most points in the fourth quarter of the Sun at Valkyries game on August 11, 2025?",
+    "gold_names": [
+      "Iliana Rupert"
+    ],
+    "gold_numbers": [],
+    "info_points": 8,
+    "qid": 31
+  },
+  {
+    "game_id": 401736315,
+    "type": "first_three",
+    "question": "Who made the first three-pointer of the Sun at Valkyries game on August 11, 2025?",
+    "gold_names": [
+      "Saniya Rivers"
+    ],
+    "gold_numbers": [],
+    "qid": 32
+  },
+  {
+    "game_id": 401736315,
+    "type": "last_points",
+    "question": "Who scored the final points of the Sun at Valkyries game on August 11, 2025?",
+    "gold_names": [
+      "Aaliyah Edwards"
+    ],
+    "gold_numbers": [],
+    "qid": 33
+  },
+  {
+    "game_id": 401736315,
+    "type": "largest_lead",
+    "question": "What was the largest lead in the Sun at Valkyries game on August 11, 2025, and which team held it?",
+    "gold_names": [
+      "Golden State Valkyries"
+    ],
+    "gold_numbers": [
+      20
+    ],
+    "qid": 34
+  },
+  {
+    "game_id": 401736315,
+    "type": "second_half_turnovers",
+    "question": "Which team committed more turnovers in the second half of the Sun at Valkyries game on August 11, 2025?",
+    "gold_names": [
+      "Connecticut Sun"
+    ],
+    "gold_numbers": [],
+    "qid": 35
+  },
+  {
+    "game_id": 401820333,
+    "type": "team_leader_box",
+    "question": "Who led the Lynx in points in the Lynx at Mercury game on September 26, 2025?",
+    "gold_names": [
+      "Natisha Hiedeman"
+    ],
+    "gold_numbers": [],
+    "qid": 36
+  },
+  {
+    "game_id": 401820333,
+    "type": "player_points_box",
+    "question": "How many points did Monique Akoa Makani score in the Lynx at Mercury game on September 26, 2025?",
+    "gold_names": [],
+    "gold_numbers": [
+      8
+    ],
+    "qid": 37
+  },
+  {
+    "game_id": 401820333,
+    "type": "final_score",
+    "question": "What was the final score of the Lynx at Mercury game on September 26, 2025?",
+    "gold_names": [],
+    "gold_numbers": [
+      84,
+      76
+    ],
+    "qid": 38
+  },
+  {
+    "game_id": 401820333,
+    "type": "quarter_winner",
+    "question": "Which team scored more points in the first quarter of the Lynx at Mercury game on September 26, 2025, and how many?",
+    "gold_names": [
+      "Minnesota Lynx"
+    ],
+    "gold_numbers": [
+      22
+    ],
+    "qid": 39
+  },
+  {
+    "game_id": 401820333,
+    "type": "q4_top_scorer",
+    "question": "Who scored the most points in the fourth quarter of the Lynx at Mercury game on September 26, 2025?",
+    "gold_names": [
+      "Satou Sabally"
+    ],
+    "gold_numbers": [],
+    "info_points": 15,
+    "qid": 40
+  },
+  {
+    "game_id": 401820333,
+    "type": "first_three",
+    "question": "Who made the first three-pointer of the Lynx at Mercury game on September 26, 2025?",
+    "gold_names": [
+      "Monique Akoa Makani"
+    ],
+    "gold_numbers": [],
+    "qid": 41
+  },
+  {
+    "game_id": 401820333,
+    "type": "last_points",
+    "question": "Who scored the final points of the Lynx at Mercury game on September 26, 2025?",
+    "gold_names": [
+      "Satou Sabally"
+    ],
+    "gold_numbers": [],
+    "qid": 42
+  },
+  {
+    "game_id": 401820333,
+    "type": "largest_lead",
+    "question": "What was the largest lead in the Lynx at Mercury game on September 26, 2025, and which team held it?",
+    "gold_names": [
+      "Phoenix Mercury"
+    ],
+    "gold_numbers": [
+      8
+    ],
+    "qid": 43
+  },
+  {
+    "game_id": 401820333,
+    "type": "second_half_turnovers",
+    "question": "Which team committed more turnovers in the second half of the Lynx at Mercury game on September 26, 2025?",
+    "gold_names": [
+      "Phoenix Mercury"
+    ],
+    "gold_numbers": [],
+    "qid": 44
+  },
+  {
+    "game_id": 401736348,
+    "type": "team_leader_box",
+    "question": "Who led the Sun in assists in the Sun at Sky game on August 23, 2025?",
+    "gold_names": [
+      "Marina Mabrey"
+    ],
+    "gold_numbers": [],
+    "qid": 45
+  },
+  {
+    "game_id": 401736348,
+    "type": "player_points_box",
+    "question": "How many points did Tina Charles score in the Sun at Sky game on August 23, 2025?",
+    "gold_names": [],
+    "gold_numbers": [
+      23
+    ],
+    "qid": 46
+  },
+  {
+    "game_id": 401736348,
+    "type": "final_score",
+    "question": "What was the final score of the Sun at Sky game on August 23, 2025?",
+    "gold_names": [],
+    "gold_numbers": [
+      84,
+      94
+    ],
+    "qid": 47
+  },
+  {
+    "game_id": 401736348,
+    "type": "quarter_winner",
+    "question": "Which team scored more points in the second quarter of the Sun at Sky game on August 23, 2025, and how many?",
+    "gold_names": [
+      "Chicago Sky"
+    ],
+    "gold_numbers": [
+      28
+    ],
+    "qid": 48
+  },
+  {
+    "game_id": 401736348,
+    "type": "q4_top_scorer",
+    "question": "Who scored the most points in the fourth quarter of the Sun at Sky game on August 23, 2025?",
+    "gold_names": [
+      "Kia Nurse"
+    ],
+    "gold_numbers": [],
+    "info_points": 10,
+    "qid": 49
+  },
+  {
+    "game_id": 401736348,
+    "type": "first_three",
+    "question": "Who made the first three-pointer of the Sun at Sky game on August 23, 2025?",
+    "gold_names": [
+      "Marina Mabrey"
+    ],
+    "gold_numbers": [],
+    "qid": 50
+  },
+  {
+    "game_id": 401736348,
+    "type": "last_points",
+    "question": "Who scored the final points of the Sun at Sky game on August 23, 2025?",
+    "gold_names": [
+      "Bria Hartley"
+    ],
+    "gold_numbers": [],
+    "qid": 51
+  },
+  {
+    "game_id": 401736348,
+    "type": "largest_lead",
+    "question": "What was the largest lead in the Sun at Sky game on August 23, 2025, and which team held it?",
+    "gold_names": [
+      "Connecticut Sun"
+    ],
+    "gold_numbers": [
+      21
+    ],
+    "qid": 52
+  },
+  {
+    "game_id": 401736348,
+    "type": "second_half_turnovers",
+    "question": "Which team committed more turnovers in the second half of the Sun at Sky game on August 23, 2025?",
+    "gold_names": [
+      "Chicago Sky"
+    ],
+    "gold_numbers": [],
+    "qid": 53
+  },
+  {
+    "game_id": 401736293,
+    "type": "team_leader_box",
+    "question": "Who led the Mercury in rebounds in the Mercury at Sky game on August 3, 2025?",
+    "gold_names": [
+      "Alyssa Thomas"
+    ],
+    "gold_numbers": [],
+    "qid": 54
+  },
+  {
+    "game_id": 401736293,
+    "type": "player_points_box",
+    "question": "How many points did Kahleah Copper score in the Mercury at Sky game on August 3, 2025?",
+    "gold_names": [],
+    "gold_numbers": [
+      25
+    ],
+    "qid": 55
+  },
+  {
+    "game_id": 401736293,
+    "type": "final_score",
+    "question": "What was the final score of the Mercury at Sky game on August 3, 2025?",
+    "gold_names": [],
+    "gold_numbers": [
+      67,
+      83
+    ],
+    "qid": 56
+  },
+  {
+    "game_id": 401736293,
+    "type": "quarter_winner",
+    "question": "Which team scored more points in the third quarter of the Mercury at Sky game on August 3, 2025, and how many?",
+    "gold_names": [
+      "Phoenix Mercury"
+    ],
+    "gold_numbers": [
+      27
+    ],
+    "qid": 57
+  },
+  {
+    "game_id": 401736293,
+    "type": "q4_top_scorer",
+    "question": "Who scored the most points in the fourth quarter of the Mercury at Sky game on August 3, 2025?",
+    "gold_names": [
+      "Elizabeth Williams"
+    ],
+    "gold_numbers": [],
+    "info_points": 7,
+    "qid": 58
+  },
+  {
+    "game_id": 401736293,
+    "type": "first_three",
+    "question": "Who made the first three-pointer of the Mercury at Sky game on August 3, 2025?",
+    "gold_names": [
+      "Michaela Onyenwere"
+    ],
+    "gold_numbers": [],
+    "qid": 59
+  },
+  {
+    "game_id": 401736293,
+    "type": "last_points",
+    "question": "Who scored the final points of the Mercury at Sky game on August 3, 2025?",
+    "gold_names": [
+      "Elizabeth Williams"
+    ],
+    "gold_numbers": [],
+    "qid": 60
+  },
+  {
+    "game_id": 401736293,
+    "type": "largest_lead",
+    "question": "What was the largest lead in the Mercury at Sky game on August 3, 2025, and which team held it?",
+    "gold_names": [
+      "Phoenix Mercury"
+    ],
+    "gold_numbers": [
+      26
+    ],
+    "qid": 61
+  },
+  {
+    "game_id": 401736293,
+    "type": "second_half_turnovers",
+    "question": "Which team committed more turnovers in the second half of the Mercury at Sky game on August 3, 2025?",
+    "gold_names": [
+      "Chicago Sky"
+    ],
+    "gold_numbers": [],
+    "qid": 62
+  },
+  {
+    "game_id": 401781604,
+    "type": "team_leader_box",
+    "question": "Who led the TEAM COLLIER in assists in the TEAM COLLIER at TEAM CLARK game on July 19, 2025?",
+    "gold_names": [
+      "Skylar Diggins"
+    ],
+    "gold_numbers": [],
+    "qid": 63
+  },
+  {
+    "game_id": 401781604,
+    "type": "player_points_box",
+    "question": "How many points did Kelsey Mitchell score in the TEAM COLLIER at TEAM CLARK game on July 19, 2025?",
+    "gold_names": [],
+    "gold_numbers": [
+      20
+    ],
+    "qid": 64
+  },
+  {
+    "game_id": 401781604,
+    "type": "final_score",
+    "question": "What was the final score of the TEAM COLLIER at TEAM CLARK game on July 19, 2025?",
+    "gold_names": [],
+    "gold_numbers": [
+      131,
+      151
+    ],
+    "qid": 65
+  },
+  {
+    "game_id": 401781604,
+    "type": "quarter_winner",
+    "question": "Which team scored more points in the first quarter of the TEAM COLLIER at TEAM CLARK game on July 19, 2025, and how many?",
+    "gold_names": [
+      "TEAM COLLIER"
+    ],
+    "gold_numbers": [
+      49
+    ],
+    "qid": 66
+  },
+  {
+    "game_id": 401781604,
+    "type": "q4_top_scorer",
+    "question": "Who scored the most points in the fourth quarter of the TEAM COLLIER at TEAM CLARK game on July 19, 2025?",
+    "gold_names": [
+      "Gabby Williams",
+      "Kiki Iriafen",
+      "Skylar Diggins"
+    ],
+    "gold_numbers": [],
+    "info_points": 8,
+    "qid": 67
+  },
+  {
+    "game_id": 401781604,
+    "type": "first_three",
+    "question": "Who made the first three-pointer of the TEAM COLLIER at TEAM CLARK game on July 19, 2025?",
+    "gold_names": [
+      "Paige Bueckers"
+    ],
+    "gold_numbers": [],
+    "qid": 68
+  },
+  {
+    "game_id": 401781604,
+    "type": "last_points",
+    "question": "Who scored the final points of the TEAM COLLIER at TEAM CLARK game on July 19, 2025?",
+    "gold_names": [
+      "Kiki Iriafen"
+    ],
+    "gold_numbers": [],
+    "qid": 69
+  },
+  {
+    "game_id": 401781604,
+    "type": "largest_lead",
+    "question": "What was the largest lead in the TEAM COLLIER at TEAM CLARK game on July 19, 2025, and which team held it?",
+    "gold_names": [
+      "TEAM COLLIER"
+    ],
+    "gold_numbers": [
+      27
+    ],
+    "qid": 70
+  },
+  {
+    "game_id": 401781604,
+    "type": "second_half_turnovers",
+    "question": "Which team committed more turnovers in the second half of the TEAM COLLIER at TEAM CLARK game on July 19, 2025?",
+    "gold_names": [
+      "TEAM COLLIER"
+    ],
+    "gold_numbers": [],
+    "qid": 71
+  },
+  {
+    "game_id": 401736136,
+    "type": "team_leader_box",
+    "question": "Who led the Mystics in points in the Mystics at Mercury game on May 25, 2025?",
+    "gold_names": [
+      "Sonia Citron"
+    ],
+    "gold_numbers": [],
+    "qid": 72
+  },
+  {
+    "game_id": 401736136,
+    "type": "player_points_box",
+    "question": "How many points did Kiki Iriafen score in the Mystics at Mercury game on May 25, 2025?",
+    "gold_names": [],
+    "gold_numbers": [
+      11
+    ],
+    "qid": 73
+  },
+  {
+    "game_id": 401736136,
+    "type": "final_score",
+    "question": "What was the final score of the Mystics at Mercury game on May 25, 2025?",
+    "gold_names": [],
+    "gold_numbers": [
+      68,
+      62
+    ],
+    "qid": 74
+  },
+  {
+    "game_id": 401736136,
+    "type": "quarter_winner",
+    "question": "Which team scored more points in the third quarter of the Mystics at Mercury game on May 25, 2025, and how many?",
+    "gold_names": [
+      "Washington Mystics"
+    ],
+    "gold_numbers": [
+      22
+    ],
+    "qid": 75
+  },
+  {
+    "game_id": 401736136,
+    "type": "q4_top_scorer",
+    "question": "Who scored the most points in the fourth quarter of the Mystics at Mercury game on May 25, 2025?",
+    "gold_names": [
+      "Alyssa Thomas"
+    ],
+    "gold_numbers": [],
+    "info_points": 7,
+    "qid": 76
+  },
+  {
+    "game_id": 401736136,
+    "type": "first_three",
+    "question": "Who made the first three-pointer of the Mystics at Mercury game on May 25, 2025?",
+    "gold_names": [
+      "Lucy Olsen"
+    ],
+    "gold_numbers": [],
+    "qid": 77
+  },
+  {
+    "game_id": 401736136,
+    "type": "last_points",
+    "question": "Who scored the final points of the Mystics at Mercury game on May 25, 2025?",
+    "gold_names": [
+      "Alyssa Thomas"
+    ],
+    "gold_numbers": [],
+    "qid": 78
+  },
+  {
+    "game_id": 401736136,
+    "type": "largest_lead",
+    "question": "What was the largest lead in the Mystics at Mercury game on May 25, 2025, and which team held it?",
+    "gold_names": [
+      "Phoenix Mercury"
+    ],
+    "gold_numbers": [
+      13
+    ],
+    "qid": 79
+  },
+  {
+    "game_id": 401736136,
+    "type": "second_half_turnovers",
+    "question": "Which team committed more turnovers in the second half of the Mystics at Mercury game on May 25, 2025?",
+    "gold_names": [
+      "Washington Mystics"
+    ],
+    "gold_numbers": [],
+    "qid": 80
+  },
+  {
+    "game_id": 401736376,
+    "type": "team_leader_box",
+    "question": "Who led the Mercury in rebounds in the Mercury at Mystics game on September 4, 2025?",
+    "gold_names": [
+      "Alyssa Thomas"
+    ],
+    "gold_numbers": [],
+    "qid": 81
+  },
+  {
+    "game_id": 401736376,
+    "type": "player_points_box",
+    "question": "How many points did Kiki Iriafen score in the Mercury at Mystics game on September 4, 2025?",
+    "gold_names": [],
+    "gold_numbers": [
+      18
+    ],
+    "qid": 82
+  },
+  {
+    "game_id": 401736376,
+    "type": "final_score",
+    "question": "What was the final score of the Mercury at Mystics game on September 4, 2025?",
+    "gold_names": [],
+    "gold_numbers": [
+      69,
+      75
+    ],
+    "qid": 83
+  },
+  {
+    "game_id": 401736376,
+    "type": "quarter_winner",
+    "question": "Which team scored more points in the third quarter of the Mercury at Mystics game on September 4, 2025, and how many?",
+    "gold_names": [
+      "Washington Mystics"
+    ],
+    "gold_numbers": [
+      19
+    ],
+    "qid": 84
+  },
+  {
+    "game_id": 401736376,
+    "type": "q4_top_scorer",
+    "question": "Who scored the most points in the fourth quarter of the Mercury at Mystics game on September 4, 2025?",
+    "gold_names": [
+      "Alyssa Thomas",
+      "Sug Sutton"
+    ],
+    "gold_numbers": [],
+    "info_points": 6,
+    "qid": 85
+  },
+  {
+    "game_id": 401736376,
+    "type": "first_three",
+    "question": "Who made the first three-pointer of the Mercury at Mystics game on September 4, 2025?",
+    "gold_names": [
+      "Monique Akoa Makani"
+    ],
+    "gold_numbers": [],
+    "qid": 86
+  },
+  {
+    "game_id": 401736376,
+    "type": "last_points",
+    "question": "Who scored the final points of the Mercury at Mystics game on September 4, 2025?",
+    "gold_names": [
+      "DeWanna Bonner"
+    ],
+    "gold_numbers": [],
+    "qid": 87
+  },
+  {
+    "game_id": 401736376,
+    "type": "largest_lead",
+    "question": "What was the largest lead in the Mercury at Mystics game on September 4, 2025, and which team held it?",
+    "gold_names": [
+      "Phoenix Mercury"
+    ],
+    "gold_numbers": [
+      9
+    ],
+    "qid": 88
+  },
+  {
+    "game_id": 401736376,
+    "type": "second_half_turnovers",
+    "question": "Which team committed more turnovers in the second half of the Mercury at Mystics game on September 4, 2025?",
+    "gold_names": [
+      "Phoenix Mercury"
+    ],
+    "gold_numbers": [],
+    "qid": 89
+  },
+  {
+    "game_id": 401736269,
+    "type": "team_leader_box",
+    "question": "Who led the Fever in points in the Fever at Sky game on July 27, 2025?",
+    "gold_names": [
+      "Kelsey Mitchell"
+    ],
+    "gold_numbers": [],
+    "qid": 90
+  },
+  {
+    "game_id": 401736269,
+    "type": "player_points_box",
+    "question": "How many points did Aliyah Boston score in the Fever at Sky game on July 27, 2025?",
+    "gold_names": [],
+    "gold_numbers": [
+      14
+    ],
+    "qid": 91
+  },
+  {
+    "game_id": 401736269,
+    "type": "final_score",
+    "question": "What was the final score of the Fever at Sky game on July 27, 2025?",
+    "gold_names": [],
+    "gold_numbers": [
+      78,
+      93
+    ],
+    "qid": 92
+  },
+  {
+    "game_id": 401736269,
+    "type": "quarter_winner",
+    "question": "Which team scored more points in the third quarter of the Fever at Sky game on July 27, 2025, and how many?",
+    "gold_names": [
+      "Indiana Fever"
+    ],
+    "gold_numbers": [
+      24
+    ],
+    "qid": 93
+  },
+  {
+    "game_id": 401736269,
+    "type": "q4_top_scorer",
+    "question": "Who scored the most points in the fourth quarter of the Fever at Sky game on July 27, 2025?",
+    "gold_names": [
+      "Rebecca Allen"
+    ],
+    "gold_numbers": [],
+    "info_points": 8,
+    "qid": 94
+  },
+  {
+    "game_id": 401736269,
+    "type": "first_three",
+    "question": "Who made the first three-pointer of the Fever at Sky game on July 27, 2025?",
+    "gold_names": [
+      "Rachel Banham"
+    ],
+    "gold_numbers": [],
+    "qid": 95
+  },
+  {
+    "game_id": 401736269,
+    "type": "last_points",
+    "question": "Who scored the final points of the Fever at Sky game on July 27, 2025?",
+    "gold_names": [
+      "Makayla Timpson"
+    ],
+    "gold_numbers": [],
+    "qid": 96
+  },
+  {
+    "game_id": 401736269,
+    "type": "largest_lead",
+    "question": "What was the largest lead in the Fever at Sky game on July 27, 2025, and which team held it?",
+    "gold_names": [
+      "Indiana Fever"
+    ],
+    "gold_numbers": [
+      16
+    ],
+    "qid": 97
+  },
+  {
+    "game_id": 401736269,
+    "type": "second_half_turnovers",
+    "question": "Which team committed more turnovers in the second half of the Fever at Sky game on July 27, 2025?",
+    "gold_names": [
+      "Chicago Sky"
+    ],
+    "gold_numbers": [],
+    "qid": 98
+  },
+  {
+    "game_id": 401736312,
+    "type": "team_leader_box",
+    "question": "Who led the Storm in rebounds in the Storm at Sparks game on August 10, 2025?",
+    "gold_names": [
+      "Dominique Malonga"
+    ],
+    "gold_numbers": [],
+    "qid": 99
+  },
+  {
+    "game_id": 401736312,
+    "type": "player_points_box",
+    "question": "How many points did Dominique Malonga score in the Storm at Sparks game on August 10, 2025?",
+    "gold_names": [],
+    "gold_numbers": [
+      20
+    ],
+    "qid": 100
+  },
+  {
+    "game_id": 401736312,
+    "type": "final_score",
+    "question": "What was the final score of the Storm at Sparks game on August 10, 2025?",
+    "gold_names": [],
+    "gold_numbers": [
+      94,
+      91
+    ],
+    "qid": 101
+  },
+  {
+    "game_id": 401736312,
+    "type": "quarter_winner",
+    "question": "Which team scored more points in the first quarter of the Storm at Sparks game on August 10, 2025, and how many?",
+    "gold_names": [
+      "Seattle Storm"
+    ],
+    "gold_numbers": [
+      26
+    ],
+    "qid": 102
+  },
+  {
+    "game_id": 401736312,
+    "type": "q4_top_scorer",
+    "question": "Who scored the most points in the fourth quarter of the Storm at Sparks game on August 10, 2025?",
+    "gold_names": [
+      "Brittney Sykes"
+    ],
+    "gold_numbers": [],
+    "info_points": 14,
+    "qid": 103
+  },
+  {
+    "game_id": 401736312,
+    "type": "first_three",
+    "question": "Who made the first three-pointer of the Storm at Sparks game on August 10, 2025?",
+    "gold_names": [
+      "Azura Stevens"
+    ],
+    "gold_numbers": [],
+    "qid": 104
+  },
+  {
+    "game_id": 401736312,
+    "type": "last_points",
+    "question": "Who scored the final points of the Storm at Sparks game on August 10, 2025?",
+    "gold_names": [
+      "Dearica Hamby"
+    ],
+    "gold_numbers": [],
+    "qid": 105
+  },
+  {
+    "game_id": 401736312,
+    "type": "largest_lead",
+    "question": "What was the largest lead in the Storm at Sparks game on August 10, 2025, and which team held it?",
+    "gold_names": [
+      "Seattle Storm"
+    ],
+    "gold_numbers": [
+      16
+    ],
+    "qid": 106
+  },
+  {
+    "game_id": 401736312,
+    "type": "second_half_turnovers",
+    "question": "Which team committed more turnovers in the second half of the Storm at Sparks game on August 10, 2025?",
+    "gold_names": [
+      "Los Angeles Sparks"
+    ],
+    "gold_numbers": [],
+    "qid": 107
+  },
+  {
+    "game_id": 401736207,
+    "type": "team_leader_box",
+    "question": "Who led the Sparks in assists in the Sparks at Fever game on June 26, 2025?",
+    "gold_names": [
+      "Kelsey Plum"
+    ],
+    "gold_numbers": [],
+    "qid": 108
+  },
+  {
+    "game_id": 401736207,
+    "type": "player_points_box",
+    "question": "How many points did Azura Stevens score in the Sparks at Fever game on June 26, 2025?",
+    "gold_names": [],
+    "gold_numbers": [
+      23
+    ],
+    "qid": 109
+  },
+  {
+    "game_id": 401736207,
+    "type": "final_score",
+    "question": "What was the final score of the Sparks at Fever game on June 26, 2025?",
+    "gold_names": [],
+    "gold_numbers": [
+      75,
+      85
+    ],
+    "qid": 110
+  },
+  {
+    "game_id": 401736207,
+    "type": "quarter_winner",
+    "question": "Which team scored more points in the fourth quarter of the Sparks at Fever game on June 26, 2025, and how many?",
+    "gold_names": [
+      "Los Angeles Sparks"
+    ],
+    "gold_numbers": [
+      35
+    ],
+    "qid": 111
+  },
+  {
+    "game_id": 401736207,
+    "type": "q4_top_scorer",
+    "question": "Who scored the most points in the fourth quarter of the Sparks at Fever game on June 26, 2025?",
+    "gold_names": [
+      "Azura Stevens"
+    ],
+    "gold_numbers": [],
+    "info_points": 14,
+    "qid": 112
+  },
+  {
+    "game_id": 401736207,
+    "type": "first_three",
+    "question": "Who made the first three-pointer of the Sparks at Fever game on June 26, 2025?",
+    "gold_names": [
+      "Aari McDonald"
+    ],
+    "gold_numbers": [],
+    "qid": 113
+  },
+  {
+    "game_id": 401736207,
+    "type": "last_points",
+    "question": "Who scored the final points of the Sparks at Fever game on June 26, 2025?",
+    "gold_names": [
+      "Dearica Hamby"
+    ],
+    "gold_numbers": [],
+    "qid": 114
+  },
+  {
+    "game_id": 401736207,
+    "type": "second_half_turnovers",
+    "question": "Which team committed more turnovers in the second half of the Sparks at Fever game on June 26, 2025?",
+    "gold_names": [
+      "Indiana Fever"
+    ],
+    "gold_numbers": [],
+    "qid": 115
+  },
+  {
+    "game_id": 401736197,
+    "type": "team_leader_box",
+    "question": "Who led the Mystics in rebounds in the Wings at Mystics game on June 22, 2025?",
+    "gold_names": [
+      "Sonia Citron"
+    ],
+    "gold_numbers": [],
+    "qid": 116
+  },
+  {
+    "game_id": 401736197,
+    "type": "player_points_box",
+    "question": "How many points did Arike Ogunbowale score in the Wings at Mystics game on June 22, 2025?",
+    "gold_names": [],
+    "gold_numbers": [
+      27
+    ],
+    "qid": 117
+  },
+  {
+    "game_id": 401736197,
+    "type": "final_score",
+    "question": "What was the final score of the Wings at Mystics game on June 22, 2025?",
+    "gold_names": [],
+    "gold_numbers": [
+      91,
+      88
+    ],
+    "qid": 118
+  },
+  {
+    "game_id": 401736197,
+    "type": "quarter_winner",
+    "question": "Which team scored more points in the fourth quarter of the Wings at Mystics game on June 22, 2025, and how many?",
+    "gold_names": [
+      "Washington Mystics"
+    ],
+    "gold_numbers": [
+      22
+    ],
+    "qid": 119
+  },
+  {
+    "game_id": 401736197,
+    "type": "q4_top_scorer",
+    "question": "Who scored the most points in the fourth quarter of the Wings at Mystics game on June 22, 2025?",
+    "gold_names": [
+      "Arike Ogunbowale"
+    ],
+    "gold_numbers": [],
+    "info_points": 7,
+    "qid": 120
+  },
+  {
+    "game_id": 401736197,
+    "type": "first_three",
+    "question": "Who made the first three-pointer of the Wings at Mystics game on June 22, 2025?",
+    "gold_names": [
+      "Sug Sutton"
+    ],
+    "gold_numbers": [],
+    "qid": 121
+  },
+  {
+    "game_id": 401736197,
+    "type": "last_points",
+    "question": "Who scored the final points of the Wings at Mystics game on June 22, 2025?",
+    "gold_names": [
+      "Sonia Citron"
+    ],
+    "gold_numbers": [],
+    "qid": 122
+  },
+  {
+    "game_id": 401736197,
+    "type": "largest_lead",
+    "question": "What was the largest lead in the Wings at Mystics game on June 22, 2025, and which team held it?",
+    "gold_names": [
+      "Washington Mystics"
+    ],
+    "gold_numbers": [
+      16
+    ],
+    "qid": 123
+  },
+  {
+    "game_id": 401736197,
+    "type": "second_half_turnovers",
+    "question": "Which team committed more turnovers in the second half of the Wings at Mystics game on June 22, 2025?",
+    "gold_names": [
+      "Dallas Wings"
+    ],
+    "gold_numbers": [],
+    "qid": 124
+  },
+  {
+    "game_id": 401736384,
+    "type": "team_leader_box",
+    "question": "Who led the Fever in assists in the Fever at Mystics game on September 7, 2025?",
+    "gold_names": [
+      "Odyssey Sims"
+    ],
+    "gold_numbers": [],
+    "qid": 125
+  },
+  {
+    "game_id": 401736384,
+    "type": "player_points_box",
+    "question": "How many points did Damiris Dantas score in the Fever at Mystics game on September 7, 2025?",
+    "gold_names": [],
+    "gold_numbers": [
+      9
+    ],
+    "qid": 126
+  },
+  {
+    "game_id": 401736384,
+    "type": "final_score",
+    "question": "What was the final score of the Fever at Mystics game on September 7, 2025?",
+    "gold_names": [],
+    "gold_numbers": [
+      65,
+      94
+    ],
+    "qid": 127
+  },
+  {
+    "game_id": 401736384,
+    "type": "quarter_winner",
+    "question": "Which team scored more points in the fourth quarter of the Fever at Mystics game on September 7, 2025, and how many?",
+    "gold_names": [
+      "Indiana Fever"
+    ],
+    "gold_numbers": [
+      32
+    ],
+    "qid": 128
+  },
+  {
+    "game_id": 401736384,
+    "type": "q4_top_scorer",
+    "question": "Who scored the most points in the fourth quarter of the Fever at Mystics game on September 7, 2025?",
+    "gold_names": [
+      "Natasha Howard"
+    ],
+    "gold_numbers": [],
+    "info_points": 7,
+    "qid": 129
+  },
+  {
+    "game_id": 401736384,
+    "type": "first_three",
+    "question": "Who made the first three-pointer of the Fever at Mystics game on September 7, 2025?",
+    "gold_names": [
+      "Alysha Clark"
+    ],
+    "gold_numbers": [],
+    "qid": 130
+  },
+  {
+    "game_id": 401736384,
+    "type": "last_points",
+    "question": "Who scored the final points of the Fever at Mystics game on September 7, 2025?",
+    "gold_names": [
+      "Lucy Olsen"
+    ],
+    "gold_numbers": [],
+    "qid": 131
+  },
+  {
+    "game_id": 401736384,
+    "type": "largest_lead",
+    "question": "What was the largest lead in the Fever at Mystics game on September 7, 2025, and which team held it?",
+    "gold_names": [
+      "Indiana Fever"
+    ],
+    "gold_numbers": [
+      33
+    ],
+    "qid": 132
+  },
+  {
+    "game_id": 401736384,
+    "type": "second_half_turnovers",
+    "question": "Which team committed more turnovers in the second half of the Fever at Mystics game on September 7, 2025?",
+    "gold_names": [
+      "Washington Mystics"
+    ],
+    "gold_numbers": [],
+    "qid": 133
+  },
+  {
+    "game_id": 401736171,
+    "type": "team_leader_box",
+    "question": "Who led the Sparks in assists in the Sparks at Aces game on June 11, 2025?",
+    "gold_names": [
+      "Kelsey Plum"
+    ],
+    "gold_numbers": [],
+    "qid": 134
+  },
+  {
+    "game_id": 401736171,
+    "type": "player_points_box",
+    "question": "How many points did Chelsea Gray score in the Sparks at Aces game on June 11, 2025?",
+    "gold_names": [],
+    "gold_numbers": [
+      28
+    ],
+    "qid": 135
+  },
+  {
+    "game_id": 401736171,
+    "type": "final_score",
+    "question": "What was the final score of the Sparks at Aces game on June 11, 2025?",
+    "gold_names": [],
+    "gold_numbers": [
+      89,
+      97
+    ],
+    "qid": 136
+  },
+  {
+    "game_id": 401736171,
+    "type": "quarter_winner",
+    "question": "Which team scored more points in the first quarter of the Sparks at Aces game on June 11, 2025, and how many?",
+    "gold_names": [
+      "Los Angeles Sparks"
+    ],
+    "gold_numbers": [
+      29
+    ],
+    "qid": 137
+  },
+  {
+    "game_id": 401736171,
+    "type": "q4_top_scorer",
+    "question": "Who scored the most points in the fourth quarter of the Sparks at Aces game on June 11, 2025?",
+    "gold_names": [
+      "Jackie Young"
+    ],
+    "gold_numbers": [],
+    "info_points": 12,
+    "qid": 138
+  },
+  {
+    "game_id": 401736171,
+    "type": "first_three",
+    "question": "Who made the first three-pointer of the Sparks at Aces game on June 11, 2025?",
+    "gold_names": [
+      "Chelsea Gray"
+    ],
+    "gold_numbers": [],
+    "qid": 139
+  },
+  {
+    "game_id": 401736171,
+    "type": "last_points",
+    "question": "Who scored the final points of the Sparks at Aces game on June 11, 2025?",
+    "gold_names": [
+      "Kelsey Plum"
+    ],
+    "gold_numbers": [],
+    "qid": 140
+  },
+  {
+    "game_id": 401736171,
+    "type": "largest_lead",
+    "question": "What was the largest lead in the Sparks at Aces game on June 11, 2025, and which team held it?",
+    "gold_names": [
+      "Los Angeles Sparks"
+    ],
+    "gold_numbers": [
+      20
+    ],
+    "qid": 141
+  },
+  {
+    "game_id": 401736171,
+    "type": "second_half_turnovers",
+    "question": "Which team committed more turnovers in the second half of the Sparks at Aces game on June 11, 2025?",
+    "gold_names": [
+      "Los Angeles Sparks"
+    ],
+    "gold_numbers": [],
+    "qid": 142
+  },
+  {
+    "game_id": 401736266,
+    "type": "team_leader_box",
+    "question": "Who led the Liberty in points in the Mercury at Liberty game on July 25, 2025?",
+    "gold_names": [
+      "Sabrina Ionescu"
+    ],
+    "gold_numbers": [],
+    "qid": 143
+  },
+  {
+    "game_id": 401736266,
+    "type": "player_points_box",
+    "question": "How many points did Natasha Mack score in the Mercury at Liberty game on July 25, 2025?",
+    "gold_names": [],
+    "gold_numbers": [
+      9
+    ],
+    "qid": 144
+  },
+  {
+    "game_id": 401736266,
+    "type": "final_score",
+    "question": "What was the final score of the Mercury at Liberty game on July 25, 2025?",
+    "gold_names": [],
+    "gold_numbers": [
+      89,
+      76
+    ],
+    "qid": 145
+  },
+  {
+    "game_id": 401736266,
+    "type": "quarter_winner",
+    "question": "Which team scored more points in the first quarter of the Mercury at Liberty game on July 25, 2025, and how many?",
+    "gold_names": [
+      "Phoenix Mercury"
+    ],
+    "gold_numbers": [
+      27
+    ],
+    "qid": 146
+  },
+  {
+    "game_id": 401736266,
+    "type": "q4_top_scorer",
+    "question": "Who scored the most points in the fourth quarter of the Mercury at Liberty game on July 25, 2025?",
+    "gold_names": [
+      "Jonquel Jones",
+      "Marine Johannes",
+      "Natasha Mack",
+      "Sabrina Ionescu"
+    ],
+    "gold_numbers": [],
+    "info_points": 5,
+    "qid": 147
+  },
+  {
+    "game_id": 401736266,
+    "type": "first_three",
+    "question": "Who made the first three-pointer of the Mercury at Liberty game on July 25, 2025?",
+    "gold_names": [
+      "Kahleah Copper"
+    ],
+    "gold_numbers": [],
+    "qid": 148
+  },
+  {
+    "game_id": 401736266,
+    "type": "last_points",
+    "question": "Who scored the final points of the Mercury at Liberty game on July 25, 2025?",
+    "gold_names": [
+      "Natasha Cloud"
+    ],
+    "gold_numbers": [],
+    "qid": 149
+  },
+  {
+    "game_id": 401736266,
+    "type": "largest_lead",
+    "question": "What was the largest lead in the Mercury at Liberty game on July 25, 2025, and which team held it?",
+    "gold_names": [
+      "New York Liberty"
+    ],
+    "gold_numbers": [
+      18
+    ],
+    "qid": 150
+  },
+  {
+    "game_id": 401736266,
+    "type": "second_half_turnovers",
+    "question": "Which team committed more turnovers in the second half of the Mercury at Liberty game on July 25, 2025?",
+    "gold_names": [
+      "New York Liberty"
+    ],
+    "gold_numbers": [],
+    "qid": 151
+  },
+  {
+    "game_id": 401736295,
+    "type": "team_leader_box",
+    "question": "Who led the Storm in assists in the Fever at Storm game on August 3, 2025?",
+    "gold_names": [
+      "Gabby Williams"
+    ],
+    "gold_numbers": [],
+    "qid": 152
+  },
+  {
+    "game_id": 401736295,
+    "type": "player_points_box",
+    "question": "How many points did Ezi Magbegor score in the Fever at Storm game on August 3, 2025?",
+    "gold_names": [],
+    "gold_numbers": [
+      8
+    ],
+    "qid": 153
+  },
+  {
+    "game_id": 401736295,
+    "type": "final_score",
+    "question": "What was the final score of the Fever at Storm game on August 3, 2025?",
+    "gold_names": [],
+    "gold_numbers": [
+      74,
+      78
+    ],
+    "qid": 154
+  },
+  {
+    "game_id": 401736295,
+    "type": "quarter_winner",
+    "question": "Which team scored more points in the second quarter of the Fever at Storm game on August 3, 2025, and how many?",
+    "gold_names": [
+      "Indiana Fever"
+    ],
+    "gold_numbers": [
+      25
+    ],
+    "qid": 155
+  },
+  {
+    "game_id": 401736295,
+    "type": "q4_top_scorer",
+    "question": "Who scored the most points in the fourth quarter of the Fever at Storm game on August 3, 2025?",
+    "gold_names": [
+      "Aliyah Boston"
+    ],
+    "gold_numbers": [],
+    "info_points": 10,
+    "qid": 156
+  },
+  {
+    "game_id": 401736295,
+    "type": "first_three",
+    "question": "Who made the first three-pointer of the Fever at Storm game on August 3, 2025?",
+    "gold_names": [
+      "Nneka Ogwumike"
+    ],
+    "gold_numbers": [],
+    "qid": 157
+  },
+  {
+    "game_id": 401736295,
+    "type": "last_points",
+    "question": "Who scored the final points of the Fever at Storm game on August 3, 2025?",
+    "gold_names": [
+      "Aliyah Boston"
+    ],
+    "gold_numbers": [],
+    "qid": 158
+  },
+  {
+    "game_id": 401736295,
+    "type": "largest_lead",
+    "question": "What was the largest lead in the Fever at Storm game on August 3, 2025, and which team held it?",
+    "gold_names": [
+      "Indiana Fever"
+    ],
+    "gold_numbers": [
+      13
+    ],
+    "qid": 159
+  },
+  {
+    "game_id": 401736295,
+    "type": "second_half_turnovers",
+    "question": "Which team committed more turnovers in the second half of the Fever at Storm game on August 3, 2025?",
+    "gold_names": [
+      "Seattle Storm"
+    ],
+    "gold_numbers": [],
+    "qid": 160
+  },
+  {
+    "game_id": 401736383,
+    "type": "team_leader_box",
+    "question": "Who led the Lynx in points in the Lynx at Valkyries game on September 6, 2025?",
+    "gold_names": [
+      "Natisha Hiedeman"
+    ],
+    "gold_numbers": [],
+    "qid": 161
+  },
+  {
+    "game_id": 401736383,
+    "type": "player_points_box",
+    "question": "How many points did Napheesa Collier score in the Lynx at Valkyries game on September 6, 2025?",
+    "gold_names": [],
+    "gold_numbers": [
+      20
+    ],
+    "qid": 162
+  },
+  {
+    "game_id": 401736383,
+    "type": "final_score",
+    "question": "What was the final score of the Lynx at Valkyries game on September 6, 2025?",
+    "gold_names": [],
+    "gold_numbers": [
+      72,
+      78
+    ],
+    "qid": 163
+  },
+  {
+    "game_id": 401736383,
+    "type": "quarter_winner",
+    "question": "Which team scored more points in the second quarter of the Lynx at Valkyries game on September 6, 2025, and how many?",
+    "gold_names": [
+      "Golden State Valkyries"
+    ],
+    "gold_numbers": [
+      18
+    ],
+    "qid": 164
+  },
+  {
+    "game_id": 401736383,
+    "type": "q4_top_scorer",
+    "question": "Who scored the most points in the fourth quarter of the Lynx at Valkyries game on September 6, 2025?",
+    "gold_names": [
+      "Veronica Burton"
+    ],
+    "gold_numbers": [],
+    "info_points": 12,
+    "qid": 165
+  },
+  {
+    "game_id": 401736383,
+    "type": "first_three",
+    "question": "Who made the first three-pointer of the Lynx at Valkyries game on September 6, 2025?",
+    "gold_names": [
+      "Napheesa Collier"
+    ],
+    "gold_numbers": [],
+    "qid": 166
+  },
+  {
+    "game_id": 401736383,
+    "type": "last_points",
+    "question": "Who scored the final points of the Lynx at Valkyries game on September 6, 2025?",
+    "gold_names": [
+      "Kayla McBride"
+    ],
+    "gold_numbers": [],
+    "qid": 167
+  },
+  {
+    "game_id": 401736383,
+    "type": "largest_lead",
+    "question": "What was the largest lead in the Lynx at Valkyries game on September 6, 2025, and which team held it?",
+    "gold_names": [
+      "Minnesota Lynx"
+    ],
+    "gold_numbers": [
+      9
+    ],
+    "qid": 168
+  },
+  {
+    "game_id": 401736383,
+    "type": "second_half_turnovers",
+    "question": "Which team committed more turnovers in the second half of the Lynx at Valkyries game on September 6, 2025?",
+    "gold_names": [
+      "Golden State Valkyries"
+    ],
+    "gold_numbers": [],
+    "qid": 169
+  },
+  {
+    "game_id": 401736154,
+    "type": "team_leader_box",
+    "question": "Who led the Storm in assists in the Aces at Storm game on June 1, 2025?",
+    "gold_names": [
+      "Skylar Diggins"
+    ],
+    "gold_numbers": [],
+    "qid": 170
+  },
+  {
+    "game_id": 401736154,
+    "type": "player_points_box",
+    "question": "How many points did Jewell Loyd score in the Aces at Storm game on June 1, 2025?",
+    "gold_names": [],
+    "gold_numbers": [
+      10
+    ],
+    "qid": 171
+  },
+  {
+    "game_id": 401736154,
+    "type": "final_score",
+    "question": "What was the final score of the Aces at Storm game on June 1, 2025?",
+    "gold_names": [],
+    "gold_numbers": [
+      70,
+      75
+    ],
+    "qid": 172
+  },
+  {
+    "game_id": 401736154,
+    "type": "quarter_winner",
+    "question": "Which team scored more points in the fourth quarter of the Aces at Storm game on June 1, 2025, and how many?",
+    "gold_names": [
+      "Seattle Storm"
+    ],
+    "gold_numbers": [
+      23
+    ],
+    "qid": 173
+  },
+  {
+    "game_id": 401736154,
+    "type": "q4_top_scorer",
+    "question": "Who scored the most points in the fourth quarter of the Aces at Storm game on June 1, 2025?",
+    "gold_names": [
+      "Dominique Malonga",
+      "Erica Wheeler"
+    ],
+    "gold_numbers": [],
+    "info_points": 8,
+    "qid": 174
+  },
+  {
+    "game_id": 401736154,
+    "type": "first_three",
+    "question": "Who made the first three-pointer of the Aces at Storm game on June 1, 2025?",
+    "gold_names": [
+      "Gabby Williams"
+    ],
+    "gold_numbers": [],
+    "qid": 175
+  },
+  {
+    "game_id": 401736154,
+    "type": "last_points",
+    "question": "Who scored the final points of the Aces at Storm game on June 1, 2025?",
+    "gold_names": [
+      "Jewell Loyd"
+    ],
+    "gold_numbers": [],
+    "qid": 176
+  },
+  {
+    "game_id": 401736154,
+    "type": "largest_lead",
+    "question": "What was the largest lead in the Aces at Storm game on June 1, 2025, and which team held it?",
+    "gold_names": [
+      "Las Vegas Aces"
+    ],
+    "gold_numbers": [
+      17
+    ],
+    "qid": 177
+  },
+  {
+    "game_id": 401736119,
+    "type": "team_leader_box",
+    "question": "Who led the Lynx in assists in the Lynx at Sparks game on May 18, 2025?",
+    "gold_names": [
+      "Courtney Williams"
+    ],
+    "gold_numbers": [],
+    "qid": 178
+  },
+  {
+    "game_id": 401736119,
+    "type": "player_points_box",
+    "question": "How many points did Napheesa Collier score in the Lynx at Sparks game on May 18, 2025?",
+    "gold_names": [],
+    "gold_numbers": [
+      23
+    ],
+    "qid": 179
+  },
+  {
+    "game_id": 401736119,
+    "type": "final_score",
+    "question": "What was the final score of the Lynx at Sparks game on May 18, 2025?",
+    "gold_names": [],
+    "gold_numbers": [
+      75,
+      89
+    ],
+    "qid": 180
+  },
+  {
+    "game_id": 401736119,
+    "type": "quarter_winner",
+    "question": "Which team scored more points in the third quarter of the Lynx at Sparks game on May 18, 2025, and how many?",
+    "gold_names": [
+      "Minnesota Lynx"
+    ],
+    "gold_numbers": [
+      24
+    ],
+    "qid": 181
+  },
+  {
+    "game_id": 401736119,
+    "type": "q4_top_scorer",
+    "question": "Who scored the most points in the fourth quarter of the Lynx at Sparks game on May 18, 2025?",
+    "gold_names": [
+      "Alanna Smith"
+    ],
+    "gold_numbers": [],
+    "info_points": 6,
+    "qid": 182
+  },
+  {
+    "game_id": 401736119,
+    "type": "first_three",
+    "question": "Who made the first three-pointer of the Lynx at Sparks game on May 18, 2025?",
+    "gold_names": [
+      "Alanna Smith"
+    ],
+    "gold_numbers": [],
+    "qid": 183
+  },
+  {
+    "game_id": 401736119,
+    "type": "last_points",
+    "question": "Who scored the final points of the Lynx at Sparks game on May 18, 2025?",
+    "gold_names": [
+      "Alanna Smith"
+    ],
+    "gold_numbers": [],
+    "qid": 184
+  },
+  {
+    "game_id": 401736119,
+    "type": "largest_lead",
+    "question": "What was the largest lead in the Lynx at Sparks game on May 18, 2025, and which team held it?",
+    "gold_names": [
+      "Minnesota Lynx"
+    ],
+    "gold_numbers": [
+      14
+    ],
+    "qid": 185
+  },
+  {
+    "game_id": 401736119,
+    "type": "second_half_turnovers",
+    "question": "Which team committed more turnovers in the second half of the Lynx at Sparks game on May 18, 2025?",
+    "gold_names": [
+      "Los Angeles Sparks"
+    ],
+    "gold_numbers": [],
+    "qid": 186
+  },
+  {
+    "game_id": 401736316,
+    "type": "team_leader_box",
+    "question": "Who led the Wings in assists in the Wings at Fever game on August 12, 2025?",
+    "gold_names": [
+      "Myisha Hines-Allen"
+    ],
+    "gold_numbers": [],
+    "qid": 187
+  },
+  {
+    "game_id": 401736316,
+    "type": "player_points_box",
+    "question": "How many points did Natasha Howard score in the Wings at Fever game on August 12, 2025?",
+    "gold_names": [],
+    "gold_numbers": [
+      12
+    ],
+    "qid": 188
+  },
+  {
+    "game_id": 401736316,
+    "type": "final_score",
+    "question": "What was the final score of the Wings at Fever game on August 12, 2025?",
+    "gold_names": [],
+    "gold_numbers": [
+      80,
+      81
+    ],
+    "qid": 189
+  },
+  {
+    "game_id": 401736316,
+    "type": "quarter_winner",
+    "question": "Which team scored more points in the fourth quarter of the Wings at Fever game on August 12, 2025, and how many?",
+    "gold_names": [
+      "Indiana Fever"
+    ],
+    "gold_numbers": [
+      25
+    ],
+    "qid": 190
+  },
+  {
+    "game_id": 401736316,
+    "type": "q4_top_scorer",
+    "question": "Who scored the most points in the fourth quarter of the Wings at Fever game on August 12, 2025?",
+    "gold_names": [
+      "Kelsey Mitchell"
+    ],
+    "gold_numbers": [],
+    "info_points": 12,
+    "qid": 191
+  },
+  {
+    "game_id": 401736316,
+    "type": "first_three",
+    "question": "Who made the first three-pointer of the Wings at Fever game on August 12, 2025?",
+    "gold_names": [
+      "Maddy Siegrist"
+    ],
+    "gold_numbers": [],
+    "qid": 192
+  },
+  {
+    "game_id": 401736316,
+    "type": "last_points",
+    "question": "Who scored the final points of the Wings at Fever game on August 12, 2025?",
+    "gold_names": [
+      "Kelsey Mitchell"
+    ],
+    "gold_numbers": [],
+    "qid": 193
+  },
+  {
+    "game_id": 401736316,
+    "type": "largest_lead",
+    "question": "What was the largest lead in the Wings at Fever game on August 12, 2025, and which team held it?",
+    "gold_names": [
+      "Dallas Wings"
+    ],
+    "gold_numbers": [
+      17
+    ],
+    "qid": 194
+  },
+  {
+    "game_id": 401736316,
+    "type": "second_half_turnovers",
+    "question": "Which team committed more turnovers in the second half of the Wings at Fever game on August 12, 2025?",
+    "gold_names": [
+      "Indiana Fever"
+    ],
+    "gold_numbers": [],
+    "qid": 195
+  },
+  {
+    "game_id": 401736360,
+    "type": "team_leader_box",
+    "question": "Who led the Sky in rebounds in the Sky at Mercury game on August 28, 2025?",
+    "gold_names": [
+      "Angel Reese"
+    ],
+    "gold_numbers": [],
+    "qid": 196
+  },
+  {
+    "game_id": 401736360,
+    "type": "player_points_box",
+    "question": "How many points did Kahleah Copper score in the Sky at Mercury game on August 28, 2025?",
+    "gold_names": [],
+    "gold_numbers": [
+      28
+    ],
+    "qid": 197
+  },
+  {
+    "game_id": 401736360,
+    "type": "final_score",
+    "question": "What was the final score of the Sky at Mercury game on August 28, 2025?",
+    "gold_names": [],
+    "gold_numbers": [
+      83,
+      79
+    ],
+    "qid": 198
+  },
+  {
+    "game_id": 401736360,
+    "type": "quarter_winner",
+    "question": "Which team scored more points in the third quarter of the Sky at Mercury game on August 28, 2025, and how many?",
+    "gold_names": [
+      "Chicago Sky"
+    ],
+    "gold_numbers": [
+      25
+    ],
+    "qid": 199
+  },
+  {
+    "game_id": 401736360,
+    "type": "q4_top_scorer",
+    "question": "Who scored the most points in the fourth quarter of the Sky at Mercury game on August 28, 2025?",
+    "gold_names": [
+      "Angel Reese"
+    ],
+    "gold_numbers": [],
+    "info_points": 8,
+    "qid": 200
+  },
+  {
+    "game_id": 401736360,
+    "type": "first_three",
+    "question": "Who made the first three-pointer of the Sky at Mercury game on August 28, 2025?",
+    "gold_names": [
+      "Rachel Banham"
+    ],
+    "gold_numbers": [],
+    "qid": 201
+  },
+  {
+    "game_id": 401736360,
+    "type": "last_points",
+    "question": "Who scored the final points of the Sky at Mercury game on August 28, 2025?",
+    "gold_names": [
+      "Satou Sabally"
+    ],
+    "gold_numbers": [],
+    "qid": 202
+  },
+  {
+    "game_id": 401736360,
+    "type": "largest_lead",
+    "question": "What was the largest lead in the Sky at Mercury game on August 28, 2025, and which team held it?",
+    "gold_names": [
+      "Chicago Sky"
+    ],
+    "gold_numbers": [
+      11
+    ],
+    "qid": 203
+  },
+  {
+    "game_id": 401736360,
+    "type": "second_half_turnovers",
+    "question": "Which team committed more turnovers in the second half of the Sky at Mercury game on August 28, 2025?",
+    "gold_names": [
+      "Chicago Sky"
+    ],
+    "gold_numbers": [],
+    "qid": 204
+  },
+  {
+    "game_id": 401820272,
+    "type": "team_leader_box",
+    "question": "Who led the Valkyries in points in the Valkyries at Lynx game on September 14, 2025?",
+    "gold_names": [
+      "Cecilia Zandalasini",
+      "Veronica Burton"
+    ],
+    "gold_numbers": [],
+    "qid": 205
+  },
+  {
+    "game_id": 401820272,
+    "type": "player_points_box",
+    "question": "How many points did Kate Martin score in the Valkyries at Lynx game on September 14, 2025?",
+    "gold_names": [],
+    "gold_numbers": [
+      11
+    ],
+    "qid": 206
+  },
+  {
+    "game_id": 401820272,
+    "type": "final_score",
+    "question": "What was the final score of the Valkyries at Lynx game on September 14, 2025?",
+    "gold_names": [],
+    "gold_numbers": [
+      101,
+      72
+    ],
+    "qid": 207
+  },
+  {
+    "game_id": 401820272,
+    "type": "quarter_winner",
+    "question": "Which team scored more points in the second quarter of the Valkyries at Lynx game on September 14, 2025, and how many?",
+    "gold_names": [
+      "Minnesota Lynx"
+    ],
+    "gold_numbers": [
+      26
+    ],
+    "qid": 208
+  },
+  {
+    "game_id": 401820272,
+    "type": "q4_top_scorer",
+    "question": "Who scored the most points in the fourth quarter of the Valkyries at Lynx game on September 14, 2025?",
+    "gold_names": [
+      "Natisha Hiedeman"
+    ],
+    "gold_numbers": [],
+    "info_points": 7,
+    "qid": 209
+  },
+  {
+    "game_id": 401820272,
+    "type": "first_three",
+    "question": "Who made the first three-pointer of the Valkyries at Lynx game on September 14, 2025?",
+    "gold_names": [
+      "Veronica Burton"
+    ],
+    "gold_numbers": [],
+    "qid": 210
+  },
+  {
+    "game_id": 401820272,
+    "type": "last_points",
+    "question": "Who scored the final points of the Valkyries at Lynx game on September 14, 2025?",
+    "gold_names": [
+      "Kaitlyn Chen"
+    ],
+    "gold_numbers": [],
+    "qid": 211
+  },
+  {
+    "game_id": 401820272,
+    "type": "largest_lead",
+    "question": "What was the largest lead in the Valkyries at Lynx game on September 14, 2025, and which team held it?",
+    "gold_names": [
+      "Minnesota Lynx"
+    ],
+    "gold_numbers": [
+      36
+    ],
+    "qid": 212
+  },
+  {
+    "game_id": 401820272,
+    "type": "second_half_turnovers",
+    "question": "Which team committed more turnovers in the second half of the Valkyries at Lynx game on September 14, 2025?",
+    "gold_names": [
+      "Golden State Valkyries"
+    ],
+    "gold_numbers": [],
+    "qid": 213
+  },
+  {
+    "game_id": 401736292,
+    "type": "team_leader_box",
+    "question": "Who led the Liberty in assists in the Liberty at Sun game on August 3, 2025?",
+    "gold_names": [
+      "Jonquel Jones",
+      "Natasha Cloud",
+      "Sabrina Ionescu",
+      "Stephanie Talbot"
+    ],
+    "gold_numbers": [],
+    "qid": 214
+  },
+  {
+    "game_id": 401736292,
+    "type": "player_points_box",
+    "question": "How many points did Emma Meesseman score in the Liberty at Sun game on August 3, 2025?",
+    "gold_names": [],
+    "gold_numbers": [
+      11
+    ],
+    "qid": 215
+  },
+  {
+    "game_id": 401736292,
+    "type": "final_score",
+    "question": "What was the final score of the Liberty at Sun game on August 3, 2025?",
+    "gold_names": [],
+    "gold_numbers": [
+      78,
+      87
+    ],
+    "qid": 216
+  },
+  {
+    "game_id": 401736292,
+    "type": "quarter_winner",
+    "question": "Which team scored more points in the second quarter of the Liberty at Sun game on August 3, 2025, and how many?",
+    "gold_names": [
+      "New York Liberty"
+    ],
+    "gold_numbers": [
+      20
+    ],
+    "qid": 217
+  },
+  {
+    "game_id": 401736292,
+    "type": "q4_top_scorer",
+    "question": "Who scored the most points in the fourth quarter of the Liberty at Sun game on August 3, 2025?",
+    "gold_names": [
+      "Jonquel Jones"
+    ],
+    "gold_numbers": [],
+    "info_points": 8,
+    "qid": 218
+  },
+  {
+    "game_id": 401736292,
+    "type": "first_three",
+    "question": "Who made the first three-pointer of the Liberty at Sun game on August 3, 2025?",
+    "gold_names": [
+      "Marina Mabrey"
+    ],
+    "gold_numbers": [],
+    "qid": 219
+  },
+  {
+    "game_id": 401736292,
+    "type": "last_points",
+    "question": "Who scored the final points of the Liberty at Sun game on August 3, 2025?",
+    "gold_names": [
+      "Bria Hartley"
+    ],
+    "gold_numbers": [],
+    "qid": 220
+  },
+  {
+    "game_id": 401736292,
+    "type": "largest_lead",
+    "question": "What was the largest lead in the Liberty at Sun game on August 3, 2025, and which team held it?",
+    "gold_names": [
+      "New York Liberty"
+    ],
+    "gold_numbers": [
+      17
+    ],
+    "qid": 221
+  },
+  {
+    "game_id": 401736292,
+    "type": "second_half_turnovers",
+    "question": "Which team committed more turnovers in the second half of the Liberty at Sun game on August 3, 2025?",
+    "gold_names": [
+      "New York Liberty"
+    ],
+    "gold_numbers": [],
+    "qid": 222
+  },
+  {
+    "game_id": 401736303,
+    "type": "team_leader_box",
+    "question": "Who led the Sun in points in the Sun at Sparks game on August 7, 2025?",
+    "gold_names": [
+      "Tina Charles",
+      "Marina Mabrey"
+    ],
+    "gold_numbers": [],
+    "qid": 223
+  },
+  {
+    "game_id": 401736303,
+    "type": "player_points_box",
+    "question": "How many points did Julie Allemand score in the Sun at Sparks game on August 7, 2025?",
+    "gold_names": [],
+    "gold_numbers": [
+      10
+    ],
+    "qid": 224
+  },
+  {
+    "game_id": 401736303,
+    "type": "final_score",
+    "question": "What was the final score of the Sun at Sparks game on August 7, 2025?",
+    "gold_names": [],
+    "gold_numbers": [
+      102,
+      91
+    ],
+    "qid": 225
+  },
+  {
+    "game_id": 401736303,
+    "type": "quarter_winner",
+    "question": "Which team scored more points in the fourth quarter of the Sun at Sparks game on August 7, 2025, and how many?",
+    "gold_names": [
+      "Los Angeles Sparks"
+    ],
+    "gold_numbers": [
+      28
+    ],
+    "qid": 226
+  },
+  {
+    "game_id": 401736303,
+    "type": "q4_top_scorer",
+    "question": "Who scored the most points in the fourth quarter of the Sun at Sparks game on August 7, 2025?",
+    "gold_names": [
+      "Kelsey Plum"
+    ],
+    "gold_numbers": [],
+    "info_points": 14,
+    "qid": 227
+  },
+  {
+    "game_id": 401736303,
+    "type": "first_three",
+    "question": "Who made the first three-pointer of the Sun at Sparks game on August 7, 2025?",
+    "gold_names": [
+      "Bria Hartley"
+    ],
+    "gold_numbers": [],
+    "qid": 228
+  },
+  {
+    "game_id": 401736303,
+    "type": "last_points",
+    "question": "Who scored the final points of the Sun at Sparks game on August 7, 2025?",
+    "gold_names": [
+      "Dearica Hamby"
+    ],
+    "gold_numbers": [],
+    "qid": 229
+  },
+  {
+    "game_id": 401736303,
+    "type": "second_half_turnovers",
+    "question": "Which team committed more turnovers in the second half of the Sun at Sparks game on August 7, 2025?",
+    "gold_names": [
+      "Los Angeles Sparks"
+    ],
+    "gold_numbers": [],
+    "qid": 230
+  },
+  {
+    "game_id": 401736349,
+    "type": "team_leader_box",
+    "question": "Who led the Storm in rebounds in the Storm at Mystics game on August 24, 2025?",
+    "gold_names": [
+      "Dominique Malonga"
+    ],
+    "gold_numbers": [],
+    "qid": 231
+  },
+  {
+    "game_id": 401736349,
+    "type": "player_points_box",
+    "question": "How many points did Dominique Malonga score in the Storm at Mystics game on August 24, 2025?",
+    "gold_names": [],
+    "gold_numbers": [
+      17
+    ],
+    "qid": 232
+  },
+  {
+    "game_id": 401736349,
+    "type": "final_score",
+    "question": "What was the final score of the Storm at Mystics game on August 24, 2025?",
+    "gold_names": [],
+    "gold_numbers": [
+      82,
+      84
+    ],
+    "qid": 233
+  },
+  {
+    "game_id": 401736349,
+    "type": "quarter_winner",
+    "question": "Which team scored more points in the third quarter of the Storm at Mystics game on August 24, 2025, and how many?",
+    "gold_names": [
+      "Washington Mystics"
+    ],
+    "gold_numbers": [
+      21
+    ],
+    "qid": 234
+  },
+  {
+    "game_id": 401736349,
+    "type": "q4_top_scorer",
+    "question": "Who scored the most points in the fourth quarter of the Storm at Mystics game on August 24, 2025?",
+    "gold_names": [
+      "Shakira Austin"
+    ],
+    "gold_numbers": [],
+    "info_points": 10,
+    "qid": 235
+  },
+  {
+    "game_id": 401736349,
+    "type": "first_three",
+    "question": "Who made the first three-pointer of the Storm at Mystics game on August 24, 2025?",
+    "gold_names": [
+      "Nneka Ogwumike"
+    ],
+    "gold_numbers": [],
+    "qid": 236
+  },
+  {
+    "game_id": 401736349,
+    "type": "last_points",
+    "question": "Who scored the final points of the Storm at Mystics game on August 24, 2025?",
+    "gold_names": [
+      "Nneka Ogwumike"
+    ],
+    "gold_numbers": [],
+    "qid": 237
+  },
+  {
+    "game_id": 401736349,
+    "type": "largest_lead",
+    "question": "What was the largest lead in the Storm at Mystics game on August 24, 2025, and which team held it?",
+    "gold_names": [
+      "Seattle Storm"
+    ],
+    "gold_numbers": [
+      14
+    ],
+    "qid": 238
+  },
+  {
+    "game_id": 401736349,
+    "type": "second_half_turnovers",
+    "question": "Which team committed more turnovers in the second half of the Storm at Mystics game on August 24, 2025?",
+    "gold_names": [
+      "Washington Mystics"
+    ],
+    "gold_numbers": [],
+    "qid": 239
+  },
+  {
+    "game_id": 401736340,
+    "type": "team_leader_box",
+    "question": "Who led the Sky in assists in the Sky at Liberty game on August 21, 2025?",
+    "gold_names": [
+      "Kamilla Cardoso",
+      "Ariel Atkins"
+    ],
+    "gold_numbers": [],
+    "qid": 240
+  },
+  {
+    "game_id": 401736340,
+    "type": "player_points_box",
+    "question": "How many points did Elizabeth Williams score in the Sky at Liberty game on August 21, 2025?",
+    "gold_names": [],
+    "gold_numbers": [
+      8
+    ],
+    "qid": 241
+  },
+  {
+    "game_id": 401736340,
+    "type": "final_score",
+    "question": "What was the final score of the Sky at Liberty game on August 21, 2025?",
+    "gold_names": [],
+    "gold_numbers": [
+      85,
+      91
+    ],
+    "qid": 242
+  },
+  {
+    "game_id": 401736340,
+    "type": "quarter_winner",
+    "question": "Which team scored more points in the first quarter of the Sky at Liberty game on August 21, 2025, and how many?",
+    "gold_names": [
+      "New York Liberty"
+    ],
+    "gold_numbers": [
+      23
+    ],
+    "qid": 243
+  },
+  {
+    "game_id": 401736340,
+    "type": "q4_top_scorer",
+    "question": "Who scored the most points in the fourth quarter of the Sky at Liberty game on August 21, 2025?",
+    "gold_names": [
+      "Angel Reese"
+    ],
+    "gold_numbers": [],
+    "info_points": 11,
+    "qid": 244
+  },
+  {
+    "game_id": 401736340,
+    "type": "first_three",
+    "question": "Who made the first three-pointer of the Sky at Liberty game on August 21, 2025?",
+    "gold_names": [
+      "Jonquel Jones"
+    ],
+    "gold_numbers": [],
+    "qid": 245
+  },
+  {
+    "game_id": 401736340,
+    "type": "last_points",
+    "question": "Who scored the final points of the Sky at Liberty game on August 21, 2025?",
+    "gold_names": [
+      "Angel Reese"
+    ],
+    "gold_numbers": [],
+    "qid": 246
+  },
+  {
+    "game_id": 401736340,
+    "type": "largest_lead",
+    "question": "What was the largest lead in the Sky at Liberty game on August 21, 2025, and which team held it?",
+    "gold_names": [
+      "New York Liberty"
+    ],
+    "gold_numbers": [
+      7
+    ],
+    "qid": 247
+  },
+  {
+    "game_id": 401736368,
+    "type": "team_leader_box",
+    "question": "Who led the Fever in rebounds in the Fever at Valkyries game on August 31, 2025?",
+    "gold_names": [
+      "Natasha Howard",
+      "Aliyah Boston",
+      "Lexie Hull"
+    ],
+    "gold_numbers": [],
+    "qid": 248
+  },
+  {
+    "game_id": 401736368,
+    "type": "player_points_box",
+    "question": "How many points did Lexie Hull score in the Fever at Valkyries game on August 31, 2025?",
+    "gold_names": [],
+    "gold_numbers": [
+      8
+    ],
+    "qid": 249
+  },
+  {
+    "game_id": 401736368,
+    "type": "final_score",
+    "question": "What was the final score of the Fever at Valkyries game on August 31, 2025?",
+    "gold_names": [],
+    "gold_numbers": [
+      75,
+      63
+    ],
+    "qid": 250
+  },
+  {
+    "game_id": 401736368,
+    "type": "quarter_winner",
+    "question": "Which team scored more points in the first quarter of the Fever at Valkyries game on August 31, 2025, and how many?",
+    "gold_names": [
+      "Golden State Valkyries"
+    ],
+    "gold_numbers": [
+      25
+    ],
+    "qid": 251
+  },
+  {
+    "game_id": 401736368,
+    "type": "q4_top_scorer",
+    "question": "Who scored the most points in the fourth quarter of the Fever at Valkyries game on August 31, 2025?",
+    "gold_names": [
+      "Aerial Powers"
+    ],
+    "gold_numbers": [],
+    "info_points": 10,
+    "qid": 252
+  },
+  {
+    "game_id": 401736368,
+    "type": "first_three",
+    "question": "Who made the first three-pointer of the Fever at Valkyries game on August 31, 2025?",
+    "gold_names": [
+      "Odyssey Sims"
+    ],
+    "gold_numbers": [],
+    "qid": 253
+  },
+  {
+    "game_id": 401736368,
+    "type": "last_points",
+    "question": "Who scored the final points of the Fever at Valkyries game on August 31, 2025?",
+    "gold_names": [
+      "Aerial Powers"
+    ],
+    "gold_numbers": [],
+    "qid": 254
+  },
+  {
+    "game_id": 401736368,
+    "type": "largest_lead",
+    "question": "What was the largest lead in the Fever at Valkyries game on August 31, 2025, and which team held it?",
+    "gold_names": [
+      "Golden State Valkyries"
+    ],
+    "gold_numbers": [
+      20
+    ],
+    "qid": 255
+  },
+  {
+    "game_id": 401736368,
+    "type": "second_half_turnovers",
+    "question": "Which team committed more turnovers in the second half of the Fever at Valkyries game on August 31, 2025?",
+    "gold_names": [
+      "Golden State Valkyries"
+    ],
+    "gold_numbers": [],
+    "qid": 256
+  },
+  {
+    "game_id": 401736329,
+    "type": "team_leader_box",
+    "question": "Who led the Fever in assists in the Fever at Sun game on August 17, 2025?",
+    "gold_names": [
+      "Odyssey Sims"
+    ],
+    "gold_numbers": [],
+    "qid": 257
+  },
+  {
+    "game_id": 401736329,
+    "type": "player_points_box",
+    "question": "How many points did Aneesah Morrow score in the Fever at Sun game on August 17, 2025?",
+    "gold_names": [],
+    "gold_numbers": [
+      10
+    ],
+    "qid": 258
+  },
+  {
+    "game_id": 401736329,
+    "type": "final_score",
+    "question": "What was the final score of the Fever at Sun game on August 17, 2025?",
+    "gold_names": [],
+    "gold_numbers": [
+      93,
+      99
+    ],
+    "qid": 259
+  },
+  {
+    "game_id": 401736329,
+    "type": "quarter_winner",
+    "question": "Which team scored more points in the third quarter of the Fever at Sun game on August 17, 2025, and how many?",
+    "gold_names": [
+      "Indiana Fever"
+    ],
+    "gold_numbers": [
+      23
+    ],
+    "qid": 260
+  },
+  {
+    "game_id": 401736329,
+    "type": "q4_top_scorer",
+    "question": "Who scored the most points in the fourth quarter of the Fever at Sun game on August 17, 2025?",
+    "gold_names": [
+      "Kelsey Mitchell"
+    ],
+    "gold_numbers": [],
+    "info_points": 10,
+    "qid": 261
+  },
+  {
+    "game_id": 401736329,
+    "type": "first_three",
+    "question": "Who made the first three-pointer of the Fever at Sun game on August 17, 2025?",
+    "gold_names": [
+      "Saniya Rivers"
+    ],
+    "gold_numbers": [],
+    "qid": 262
+  },
+  {
+    "game_id": 401736329,
+    "type": "last_points",
+    "question": "Who scored the final points of the Fever at Sun game on August 17, 2025?",
+    "gold_names": [
+      "Odyssey Sims"
+    ],
+    "gold_numbers": [],
+    "qid": 263
+  },
+  {
+    "game_id": 401736329,
+    "type": "largest_lead",
+    "question": "What was the largest lead in the Fever at Sun game on August 17, 2025, and which team held it?",
+    "gold_names": [
+      "Connecticut Sun"
+    ],
+    "gold_numbers": [
+      21
+    ],
+    "qid": 264
+  },
+  {
+    "game_id": 401736329,
+    "type": "second_half_turnovers",
+    "question": "Which team committed more turnovers in the second half of the Fever at Sun game on August 17, 2025?",
+    "gold_names": [
+      "Connecticut Sun"
+    ],
+    "gold_numbers": [],
+    "qid": 265
+  }
+]

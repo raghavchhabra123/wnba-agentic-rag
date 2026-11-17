@@ -1,0 +1,12 @@
+pandas==2.3.3
+numpy==1.26.4
+langgraph==1.0.7
+langchain-core==1.2.8
+langchain-openai==1.1.7
+openai==2.16.0
+faiss-cpu==1.13.2
+python-dotenv==1.2.1
+certifi
+pytest
+streamlit==1.41.1
+pyarrow==17.0.0

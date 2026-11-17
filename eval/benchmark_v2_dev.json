@@ -1,0 +1,1106 @@
+[
+  {
+    "category": "season",
+    "type": "team_record",
+    "teams": [
+      "Atlanta Dream"
+    ],
+    "question": "what was the dream's regular season record?",
+    "gold_names": [],
+    "gold_numbers": [
+      30,
+      14
+    ],
+    "question_template": "What was the Dream's regular-season record in 2025?",
+    "rewritten": true,
+    "qid": 0
+  },
+  {
+    "category": "season",
+    "type": "team_record",
+    "teams": [
+      "Connecticut Sun"
+    ],
+    "question": "what was the suns' regular season record?",
+    "gold_names": [],
+    "gold_numbers": [
+      11,
+      33
+    ],
+    "question_template": "What was the Sun's regular-season record in 2025?",
+    "rewritten": true,
+    "qid": 1
+  },
+  {
+    "category": "season",
+    "type": "team_record",
+    "teams": [
+      "Indiana Fever"
+    ],
+    "question": "what was the fever's regular season record in 2025?",
+    "gold_names": [],
+    "gold_numbers": [
+      24,
+      20
+    ],
+    "question_template": "What was the Fever's regular-season record in 2025?",
+    "rewritten": true,
+    "qid": 2
+  },
+  {
+    "category": "season",
+    "type": "team_record",
+    "teams": [
+      "Las Vegas Aces"
+    ],
+    "question": "what was the aces' regular season record?",
+    "gold_names": [],
+    "gold_numbers": [
+      30,
+      14
+    ],
+    "question_template": "What was the Aces regular-season record in 2025?",
+    "rewritten": true,
+    "qid": 3
+  },
+  {
+    "category": "season",
+    "type": "team_record",
+    "teams": [
+      "New York Liberty"
+    ],
+    "question": "What was the Liberty's regular-season record in 2025?",
+    "gold_names": [],
+    "gold_numbers": [
+      27,
+      17
+    ],
+    "question_template": "What was the Liberty's regular-season record in 2025?",
+    "rewritten": false,
+    "qid": 4
+  },
+  {
+    "category": "season",
+    "type": "team_leader_per_game",
+    "teams": [
+      "Atlanta Dream"
+    ],
+    "question": "who was the leading rebounder for the dream this season?",
+    "gold_names": [
+      "Brionna Jones"
+    ],
+    "gold_numbers": [],
+    "question_template": "Who led the Dream in rebounds per game during the 2025 regular season?",
+    "rewritten": true,
+    "qid": 5
+  },
+  {
+    "category": "season",
+    "type": "team_leader_per_game",
+    "teams": [
+      "Connecticut Sun"
+    ],
+    "question": "who was the suns' leading scorer in ppg during the regular season?",
+    "gold_names": [
+      "Tina Charles"
+    ],
+    "gold_numbers": [],
+    "question_template": "Who led the Sun in points per game during the 2025 regular season?",
+    "rewritten": true,
+    "qid": 6
+  },
+  {
+    "category": "season",
+    "type": "team_leader_per_game",
+    "teams": [
+      "Las Vegas Aces"
+    ],
+    "question": "who was the leading scorer for the aces in ppg during the 2025 regular season?",
+    "gold_names": [
+      "A'ja Wilson"
+    ],
+    "gold_numbers": [],
+    "question_template": "Who led the Aces in points per game during the 2025 regular season?",
+    "rewritten": true,
+    "qid": 7
+  },
+  {
+    "category": "season",
+    "type": "team_leader_per_game",
+    "teams": [
+      "New York Liberty"
+    ],
+    "question": "who was the liberty's top rebounder per game in the regular season?",
+    "gold_names": [
+      "Jonquel Jones"
+    ],
+    "gold_numbers": [],
+    "question_template": "Who led the Liberty in rebounds per game during the 2025 regular season?",
+    "rewritten": true,
+    "qid": 8
+  },
+  {
+    "category": "season",
+    "type": "player_average",
+    "teams": [
+      "Atlanta Dream"
+    ],
+    "question": "what was brittney griner's ppg in the '25 regular season?",
+    "gold_names": [],
+    "gold_numbers": [
+      9.8
+    ],
+    "question_template": "How many points per game did Brittney Griner average in the 2025 regular season?",
+    "rewritten": true,
+    "qid": 9
+  },
+  {
+    "category": "season",
+    "type": "player_average",
+    "teams": [
+      "Connecticut Sun"
+    ],
+    "question": "how many dimes per game did tina charles avg in the 2025 regular season?",
+    "gold_names": [],
+    "gold_numbers": [
+      1.7
+    ],
+    "question_template": "How many assists per game did Tina Charles average in the 2025 regular season?",
+    "rewritten": true,
+    "qid": 10
+  },
+  {
+    "category": "season",
+    "type": "player_average",
+    "teams": [
+      "Indiana Fever"
+    ],
+    "question": "how many ppg did aliyah boston avg in the 2025 reg season?",
+    "gold_names": [],
+    "gold_numbers": [
+      15.0
+    ],
+    "question_template": "How many points per game did Aliyah Boston average in the 2025 regular season?",
+    "rewritten": true,
+    "qid": 11
+  },
+  {
+    "category": "season",
+    "type": "player_average",
+    "teams": [
+      "Las Vegas Aces"
+    ],
+    "question": "how many ppg did jackie young avg in the 2025 reg season?",
+    "gold_names": [],
+    "gold_numbers": [
+      16.5
+    ],
+    "question_template": "How many points per game did Jackie Young average in the 2025 regular season?",
+    "rewritten": true,
+    "qid": 12
+  },
+  {
+    "category": "season",
+    "type": "player_average",
+    "teams": [
+      "New York Liberty"
+    ],
+    "question": "how many ppg did natasha cloud avg in the 2025 reg season?",
+    "gold_names": [],
+    "gold_numbers": [
+      10.1
+    ],
+    "question_template": "How many points per game did Natasha Cloud average in the 2025 regular season?",
+    "rewritten": true,
+    "qid": 13
+  },
+  {
+    "category": "season",
+    "type": "head_to_head",
+    "teams": [
+      "Connecticut Sun",
+      "New York Liberty"
+    ],
+    "question": "who took the 2025 regular season series between the sun and liberty, and what was the record?",
+    "gold_names": [
+      "New York Liberty"
+    ],
+    "gold_numbers": [
+      3,
+      1
+    ],
+    "question_template": "Who won the 2025 regular-season series between the Sun and the Liberty, and what was the series record?",
+    "rewritten": true,
+    "qid": 14
+  },
+  {
+    "category": "season",
+    "type": "head_to_head",
+    "teams": [
+      "Atlanta Dream",
+      "Connecticut Sun"
+    ],
+    "question": "who took the regular-season series between the dream and the sun in 2025, and what was the record?",
+    "gold_names": [
+      "Atlanta Dream"
+    ],
+    "gold_numbers": [
+      4,
+      1
+    ],
+    "question_template": "Who won the 2025 regular-season series between the Dream and the Sun, and what was the series record?",
+    "rewritten": true,
+    "qid": 15
+  },
+  {
+    "category": "season",
+    "type": "head_to_head",
+    "teams": [
+      "Indiana Fever",
+      "New York Liberty"
+    ],
+    "question": "who took the 2025 regular-season series between the fever and the liberty, and what was the record?",
+    "gold_names": [
+      "New York Liberty"
+    ],
+    "gold_numbers": [
+      3,
+      1
+    ],
+    "question_template": "Who won the 2025 regular-season series between the Fever and the Liberty, and what was the series record?",
+    "rewritten": true,
+    "qid": 16
+  },
+  {
+    "category": "season",
+    "type": "head_to_head",
+    "teams": [
+      "Las Vegas Aces",
+      "New York Liberty"
+    ],
+    "question": "who won the regular-season series between the aces and the liberty, and what was the series record?",
+    "gold_names": [
+      "New York Liberty"
+    ],
+    "gold_numbers": [
+      2,
+      1
+    ],
+    "question_template": "Who won the 2025 regular-season series between the Aces and the Liberty, and what was the series record?",
+    "rewritten": true,
+    "qid": 17
+  },
+  {
+    "category": "season",
+    "type": "player_vs_opponent",
+    "teams": [
+      "Las Vegas Aces",
+      "Atlanta Dream"
+    ],
+    "question": "how many ppg did jackie young drop on the dream in the regular season?",
+    "gold_names": [],
+    "gold_numbers": [
+      13.3
+    ],
+    "question_template": "How many points per game did Jackie Young average against the Dream in the 2025 regular season?",
+    "rewritten": true,
+    "qid": 18
+  },
+  {
+    "category": "season",
+    "type": "league_leader",
+    "teams": [
+      "Las Vegas Aces"
+    ],
+    "question": "who was the points leader in the 2025 regular season in the wnba?",
+    "gold_names": [
+      "A'ja Wilson"
+    ],
+    "gold_numbers": [],
+    "question_template": "Who led the WNBA in points per game in the 2025 regular season?",
+    "rewritten": true,
+    "qid": 19
+  },
+  {
+    "category": "season",
+    "type": "league_leader",
+    "teams": [
+      "Las Vegas Aces"
+    ],
+    "question": "who led the league in blocks per game in the 2025 regular season?",
+    "gold_names": [
+      "A'ja Wilson"
+    ],
+    "gold_numbers": [],
+    "question_template": "Who led the WNBA in blocks per game in the 2025 regular season?",
+    "rewritten": true,
+    "qid": 20
+  },
+  {
+    "category": "season",
+    "type": "league_leader",
+    "teams": [
+      "Atlanta Dream"
+    ],
+    "question": "who was the top dog in threes per game during the 2025 regular season in the wnba?",
+    "gold_names": [
+      "Rhyne Howard"
+    ],
+    "gold_numbers": [],
+    "question_template": "Who led the WNBA in threes per game in the 2025 regular season?",
+    "rewritten": true,
+    "qid": 21
+  },
+  {
+    "category": "season",
+    "type": "playoff_game_top_scorer",
+    "teams": [
+      "Atlanta Dream",
+      "Indiana Fever"
+    ],
+    "question": "who dropped the most points in Game 1 of the 1st Round between the fever and the dream?",
+    "gold_names": [
+      "Kelsey Mitchell"
+    ],
+    "gold_numbers": [
+      27
+    ],
+    "question_template": "Who led all scorers in Game 1 of the First Round between the Fever and the Dream?",
+    "rewritten": true,
+    "qid": 22
+  },
+  {
+    "category": "season",
+    "type": "playoff_game_top_scorer",
+    "teams": [
+      "Indiana Fever",
+      "Atlanta Dream"
+    ],
+    "question": "who dropped the most points in game 2 of the 1st round between the dream and the fever?",
+    "gold_names": [
+      "Kelsey Mitchell"
+    ],
+    "gold_numbers": [
+      19
+    ],
+    "question_template": "Who led all scorers in Game 2 of the First Round between the Dream and the Fever?",
+    "rewritten": true,
+    "qid": 23
+  },
+  {
+    "category": "season",
+    "type": "playoff_game_top_scorer",
+    "teams": [
+      "Atlanta Dream",
+      "Indiana Fever"
+    ],
+    "question": "who dropped the most points in game 3 of the 1st round between the fever and the dream?",
+    "gold_names": [
+      "Kelsey Mitchell"
+    ],
+    "gold_numbers": [
+      24
+    ],
+    "question_template": "Who led all scorers in Game 3 of the First Round between the Fever and the Dream?",
+    "rewritten": true,
+    "qid": 24
+  },
+  {
+    "category": "season",
+    "type": "playoff_game_top_scorer",
+    "teams": [
+      "Las Vegas Aces",
+      "Indiana Fever"
+    ],
+    "question": "who dropped the most points in game 1 of the semis between the fever and the aces?",
+    "gold_names": [
+      "Kelsey Mitchell"
+    ],
+    "gold_numbers": [
+      34
+    ],
+    "question_template": "Who led all scorers in Game 1 of the Semifinals between the Fever and the Aces?",
+    "rewritten": true,
+    "qid": 25
+  },
+  {
+    "category": "season",
+    "type": "playoff_game_top_scorer",
+    "teams": [
+      "Las Vegas Aces",
+      "Indiana Fever"
+    ],
+    "question": "who dropped the most points in Game 2 of the semis between the fever and the aces?",
+    "gold_names": [
+      "A'ja Wilson"
+    ],
+    "gold_numbers": [
+      25
+    ],
+    "question_template": "Who led all scorers in Game 2 of the Semifinals between the Fever and the Aces?",
+    "rewritten": true,
+    "qid": 26
+  },
+  {
+    "category": "season",
+    "type": "playoff_game_top_scorer",
+    "teams": [
+      "Indiana Fever",
+      "Las Vegas Aces"
+    ],
+    "question": "who dropped the most points in game 3 of the semifinals between the aces and fever?",
+    "gold_names": [
+      "Jackie Young"
+    ],
+    "gold_numbers": [
+      25
+    ],
+    "question_template": "Who led all scorers in Game 3 of the Semifinals between the Aces and the Fever?",
+    "rewritten": true,
+    "qid": 27
+  },
+  {
+    "category": "season",
+    "type": "playoff_game_top_scorer",
+    "teams": [
+      "Indiana Fever",
+      "Las Vegas Aces"
+    ],
+    "question": "who dropped the most points in game 4 of the semis between the aces and the fever?",
+    "gold_names": [
+      "A'ja Wilson"
+    ],
+    "gold_numbers": [
+      31
+    ],
+    "question_template": "Who led all scorers in Game 4 of the Semifinals between the Aces and the Fever?",
+    "rewritten": true,
+    "qid": 28
+  },
+  {
+    "category": "season",
+    "type": "playoff_game_top_scorer",
+    "teams": [
+      "Las Vegas Aces",
+      "Indiana Fever"
+    ],
+    "question": "who dropped the most points in Game 5 of the semis between the fever and the aces?",
+    "gold_names": [
+      "A'ja Wilson"
+    ],
+    "gold_numbers": [
+      35
+    ],
+    "question_template": "Who led all scorers in Game 5 of the Semifinals between the Fever and the Aces?",
+    "rewritten": true,
+    "qid": 29
+  },
+  {
+    "category": "multi_step",
+    "type": "best_game_opponent_leader",
+    "teams": [
+      "Indiana Fever",
+      "New York Liberty"
+    ],
+    "question": "in caitlin clark's highest-scoring game of the regular season, who dropped the most points for the other team?",
+    "gold_names": [
+      "Sabrina Ionescu"
+    ],
+    "gold_numbers": [],
+    "question_template": "In Caitlin Clark's highest-scoring game of the 2025 regular season, who led the opposing team in points?",
+    "rewritten": true,
+    "qid": 30
+  },
+  {
+    "category": "multi_step",
+    "type": "best_game_opponent_leader",
+    "teams": [
+      "Indiana Fever",
+      "Connecticut Sun"
+    ],
+    "question": "in kelsey mitchell's highest-scoring game of the regular season, who dropped the most pts for the other team?",
+    "gold_names": [
+      "Marina Mabrey"
+    ],
+    "gold_numbers": [],
+    "question_template": "In Kelsey Mitchell's highest-scoring game of the 2025 regular season, who led the opposing team in points?",
+    "rewritten": true,
+    "qid": 31
+  },
+  {
+    "category": "multi_step",
+    "type": "best_game_opponent_leader",
+    "teams": [
+      "New York Liberty",
+      "Connecticut Sun"
+    ],
+    "question": "In Sabrina Ionescu's highest-scoring game of the 2025 regular season, who led the opposing team in points?",
+    "gold_names": [
+      "Tina Charles"
+    ],
+    "gold_numbers": [],
+    "question_template": "In Sabrina Ionescu's highest-scoring game of the 2025 regular season, who led the opposing team in points?",
+    "rewritten": false,
+    "qid": 32
+  },
+  {
+    "category": "abstain",
+    "type": "ambiguous_game",
+    "teams": [
+      "Atlanta Dream"
+    ],
+    "expect": "clarify",
+    "question": "Who scored the last basket in the Dream game?",
+    "qid": 33
+  },
+  {
+    "category": "abstain",
+    "type": "other_season",
+    "teams": [
+      "Atlanta Dream"
+    ],
+    "expect": "decline",
+    "question": "What was the Dream's record in the 2023 season?",
+    "qid": 34
+  },
+  {
+    "category": "abstain",
+    "type": "ambiguous_game",
+    "teams": [
+      "Connecticut Sun"
+    ],
+    "expect": "clarify",
+    "question": "Who scored the last basket in the Sun game?",
+    "qid": 35
+  },
+  {
+    "category": "abstain",
+    "type": "other_season",
+    "teams": [
+      "Connecticut Sun"
+    ],
+    "expect": "decline",
+    "question": "What was the Sun's record in the 2023 season?",
+    "qid": 36
+  },
+  {
+    "category": "abstain",
+    "type": "ambiguous_game",
+    "teams": [
+      "Indiana Fever"
+    ],
+    "expect": "clarify",
+    "question": "Who scored the last basket in the Fever game?",
+    "qid": 37
+  },
+  {
+    "category": "abstain",
+    "type": "other_season",
+    "teams": [
+      "Indiana Fever"
+    ],
+    "expect": "decline",
+    "question": "What was the Fever's record in the 2023 season?",
+    "qid": 38
+  },
+  {
+    "category": "abstain",
+    "type": "ambiguous_game",
+    "teams": [
+      "Las Vegas Aces"
+    ],
+    "expect": "clarify",
+    "question": "Who scored the last basket in the Aces game?",
+    "qid": 39
+  },
+  {
+    "category": "abstain",
+    "type": "other_season",
+    "teams": [
+      "Las Vegas Aces"
+    ],
+    "expect": "decline",
+    "question": "What was the Aces record in the 2023 season?",
+    "qid": 40
+  },
+  {
+    "category": "abstain",
+    "type": "ambiguous_game",
+    "teams": [
+      "New York Liberty"
+    ],
+    "expect": "clarify",
+    "question": "Who scored the last basket in the Liberty game?",
+    "qid": 41
+  },
+  {
+    "category": "abstain",
+    "type": "other_season",
+    "teams": [
+      "New York Liberty"
+    ],
+    "expect": "decline",
+    "question": "What was the Liberty's record in the 2023 season?",
+    "qid": 42
+  },
+  {
+    "category": "abstain",
+    "type": "nonexistent_game",
+    "teams": [
+      "Atlanta Dream",
+      "New York Liberty"
+    ],
+    "expect": "decline",
+    "question": "Who led the Liberty in rebounds at the Dream on June 13, 2025?",
+    "qid": 43
+  },
+  {
+    "category": "abstain",
+    "type": "nonexistent_game",
+    "teams": [
+      "New York Liberty",
+      "Atlanta Dream"
+    ],
+    "expect": "decline",
+    "question": "Who led the Dream in rebounds at the Liberty on June 14, 2025?",
+    "qid": 44
+  },
+  {
+    "game_id": 401736392,
+    "type": "team_leader_box",
+    "question": "who had the most boards for the valkyries in the valkyries at storm game on sep 9?",
+    "gold_names": [
+      "Kaila Charles"
+    ],
+    "gold_numbers": [],
+    "category": "casual_game",
+    "v1_qid": 115,
+    "question_template": "Who led the Valkyries in rebounds in the Valkyries at Storm game on September 9, 2025?",
+    "rewritten": true,
+    "qid": 45
+  },
+  {
+    "game_id": 401736115,
+    "type": "largest_lead",
+    "question": "what was the largest lead in the sky at fever game on may 17th, and which team had it?",
+    "gold_names": [
+      "Indiana Fever"
+    ],
+    "gold_numbers": [
+      35
+    ],
+    "category": "casual_game",
+    "v1_qid": 221,
+    "question_template": "What was the largest lead in the Sky at Fever game on May 17, 2025, and which team held it?",
+    "rewritten": true,
+    "qid": 46
+  },
+  {
+    "game_id": 401736203,
+    "type": "player_points_box",
+    "question": "how many points did brionna jones drop in the dream vs wings game on jun 24?",
+    "gold_names": [],
+    "gold_numbers": [
+      12
+    ],
+    "category": "casual_game",
+    "v1_qid": 143,
+    "question_template": "How many points did Brionna Jones score in the Dream at Wings game on June 24, 2025?",
+    "rewritten": true,
+    "qid": 47
+  },
+  {
+    "game_id": 401736115,
+    "type": "first_three",
+    "question": "who hit the first 3 at the sky vs fever game on may 17?",
+    "gold_names": [
+      "Caitlin Clark"
+    ],
+    "gold_numbers": [],
+    "category": "casual_game",
+    "v1_qid": 219,
+    "question_template": "Who made the first three-pointer of the Sky at Fever game on May 17, 2025?",
+    "rewritten": true,
+    "qid": 48
+  },
+  {
+    "game_id": 401736200,
+    "type": "quarter_winner",
+    "question": "Which team scored more points in the first quarter of the Sun at Valkyries game on June 22, 2025, and how many?",
+    "gold_names": [
+      "Golden State Valkyries"
+    ],
+    "gold_numbers": [
+      23
+    ],
+    "category": "casual_game",
+    "v1_qid": 199,
+    "question_template": "Which team scored more points in the first quarter of the Sun at Valkyries game on June 22, 2025, and how many?",
+    "rewritten": false,
+    "qid": 49,
+    "review_note": "reverted to template: changed requested number to a margin ('by how many')"
+  },
+  {
+    "game_id": 401736392,
+    "type": "q4_top_scorer",
+    "question": "who dropped the most points in the 4th of the valkyries at storm game on sept 9?",
+    "gold_names": [
+      "Erica Wheeler"
+    ],
+    "gold_numbers": [],
+    "category": "casual_game",
+    "v1_qid": 119,
+    "question_template": "Who scored the most points in the fourth quarter of the Valkyries at Storm game on September 9, 2025?",
+    "rewritten": true,
+    "qid": 50
+  },
+  {
+    "game_id": 401736115,
+    "type": "second_half_turnovers",
+    "question": "which team had more TOs in the 2nd half of the sky vs fever game on may 17?",
+    "gold_names": [
+      "Chicago Sky"
+    ],
+    "gold_numbers": [],
+    "category": "casual_game",
+    "v1_qid": 222,
+    "question_template": "Which team committed more turnovers in the second half of the Sky at Fever game on May 17, 2025?",
+    "rewritten": true,
+    "qid": 51
+  },
+  {
+    "game_id": 401820329,
+    "type": "last_points",
+    "question": "Who scored the final points of the Aces at Mercury game on October 10, 2025?",
+    "gold_names": [
+      "Jackie Young"
+    ],
+    "gold_numbers": [],
+    "category": "casual_game",
+    "v1_qid": 130,
+    "question_template": "Who scored the final points of the Aces at Mercury game on October 10, 2025?",
+    "rewritten": false,
+    "qid": 52,
+    "review_note": "reverted to template: added a team filter ('final points for the aces')"
+  },
+  {
+    "game_id": 401736203,
+    "type": "second_half_turnovers",
+    "question": "which team had more turnovers in the 2nd half of the dream vs wings game on june 24?",
+    "gold_names": [
+      "Atlanta Dream"
+    ],
+    "gold_numbers": [],
+    "category": "casual_game",
+    "v1_qid": 150,
+    "question_template": "Which team committed more turnovers in the second half of the Dream at Wings game on June 24, 2025?",
+    "rewritten": true,
+    "qid": 53
+  },
+  {
+    "game_id": 401736213,
+    "type": "first_three",
+    "question": "who hit the first three-pointer in the suns at storm game on jun 27?",
+    "gold_names": [
+      "Skylar Diggins"
+    ],
+    "gold_numbers": [],
+    "category": "casual_game",
+    "v1_qid": 48,
+    "question_template": "Who made the first three-pointer of the Sun at Storm game on June 27, 2025?",
+    "rewritten": true,
+    "qid": 54
+  },
+  {
+    "game_id": 401736213,
+    "type": "q4_top_scorer",
+    "question": "who dropped the most points in the 4th of the sun at storm game on jun 27?",
+    "gold_names": [
+      "Aneesah Morrow",
+      "Bria Hartley"
+    ],
+    "gold_numbers": [],
+    "category": "casual_game",
+    "v1_qid": 47,
+    "question_template": "Who scored the most points in the fourth quarter of the Sun at Storm game on June 27, 2025?",
+    "rewritten": true,
+    "qid": 55
+  },
+  {
+    "game_id": 401736237,
+    "type": "team_leader_box",
+    "question": "who led the wings in boards in the wings at sky game on jul 9?",
+    "gold_names": [
+      "Li Yueru"
+    ],
+    "gold_numbers": [],
+    "category": "casual_game",
+    "v1_qid": 205,
+    "question_template": "Who led the Wings in rebounds in the Wings at Sky game on July 9, 2025?",
+    "rewritten": true,
+    "qid": 56
+  },
+  {
+    "game_id": 401820329,
+    "type": "largest_lead",
+    "question": "what was the largest lead in the aces vs mercury game on oct 10, and which team had it?",
+    "gold_names": [
+      "Las Vegas Aces"
+    ],
+    "gold_numbers": [
+      20
+    ],
+    "category": "casual_game",
+    "v1_qid": 131,
+    "question_template": "What was the largest lead in the Aces at Mercury game on October 10, 2025, and which team held it?",
+    "rewritten": true,
+    "qid": 57
+  },
+  {
+    "game_id": 401736392,
+    "type": "last_points",
+    "question": "Who scored the final points of the Valkyries at Storm game on September 9, 2025?",
+    "gold_names": [
+      "Erica Wheeler"
+    ],
+    "gold_numbers": [],
+    "category": "casual_game",
+    "v1_qid": 121,
+    "question_template": "Who scored the final points of the Valkyries at Storm game on September 9, 2025?",
+    "rewritten": false,
+    "qid": 58,
+    "review_note": "reverted to template: added a team filter ('last points for the Valkyries')"
+  },
+  {
+    "game_id": 401736169,
+    "type": "player_points_box",
+    "question": "how many points did natasha howard drop in the fever at dream game on jun 10?",
+    "gold_names": [],
+    "gold_numbers": [
+      15
+    ],
+    "category": "casual_game",
+    "v1_qid": 161,
+    "question_template": "How many points did Natasha Howard score in the Fever at Dream game on June 10, 2025?",
+    "rewritten": true,
+    "qid": 59
+  },
+  {
+    "game_id": 401736283,
+    "type": "last_points",
+    "question": "Who scored the final points of the Liberty at Lynx game on July 30, 2025?",
+    "gold_names": [
+      "Sabrina Ionescu"
+    ],
+    "gold_numbers": [],
+    "category": "casual_game",
+    "v1_qid": 157,
+    "question_template": "Who scored the final points of the Liberty at Lynx game on July 30, 2025?",
+    "rewritten": false,
+    "qid": 60
+  },
+  {
+    "game_id": 401736200,
+    "type": "largest_lead",
+    "question": "what was the largest lead in the suns at valkyries game on jun 22, and who had it?",
+    "gold_names": [
+      "Golden State Valkyries"
+    ],
+    "gold_numbers": [
+      30
+    ],
+    "category": "casual_game",
+    "v1_qid": 203,
+    "question_template": "What was the largest lead in the Sun at Valkyries game on June 22, 2025, and which team held it?",
+    "rewritten": true,
+    "qid": 61
+  },
+  {
+    "game_id": 401736237,
+    "type": "largest_lead",
+    "question": "what was the largest lead in the wings vs sky game on jul 9, and which team had it?",
+    "gold_names": [
+      "Chicago Sky"
+    ],
+    "gold_numbers": [
+      15
+    ],
+    "category": "casual_game",
+    "v1_qid": 212,
+    "question_template": "What was the largest lead in the Wings at Sky game on July 9, 2025, and which team held it?",
+    "rewritten": true,
+    "qid": 62
+  },
+  {
+    "game_id": 401736262,
+    "type": "last_points",
+    "question": "who dropped the final points of the dream vs mercury game on jul 23?",
+    "gold_names": [
+      "Allisha Gray"
+    ],
+    "gold_numbers": [],
+    "category": "casual_game",
+    "v1_qid": 24,
+    "question_template": "Who scored the final points of the Dream at Mercury game on July 23, 2025?",
+    "rewritten": true,
+    "qid": 63
+  },
+  {
+    "game_id": 401736393,
+    "type": "second_half_turnovers",
+    "question": "which team dropped more TOs in the 2nd half of the dream at sun game on sep 10?",
+    "gold_names": [
+      "Atlanta Dream"
+    ],
+    "gold_numbers": [],
+    "category": "casual_game",
+    "v1_qid": 114,
+    "question_template": "Which team committed more turnovers in the second half of the Dream at Sun game on September 10, 2025?",
+    "rewritten": true,
+    "qid": 64
+  },
+  {
+    "game_id": 401736430,
+    "type": "largest_lead",
+    "question": "what was the biggest lead in the fever vs lynx game on jul 1 and who had it?",
+    "gold_names": [
+      "Indiana Fever"
+    ],
+    "gold_numbers": [
+      15
+    ],
+    "category": "casual_game",
+    "v1_qid": 77,
+    "question_template": "What was the largest lead in the Fever at Lynx game on July 1, 2025, and which team held it?",
+    "rewritten": true,
+    "qid": 65
+  },
+  {
+    "game_id": 401736149,
+    "type": "player_points_box",
+    "question": "how many points did kayla mcbride drop in the lynx at mercury game on may 30?",
+    "gold_names": [],
+    "gold_numbers": [
+      20
+    ],
+    "category": "casual_game",
+    "v1_qid": 36,
+    "question_template": "How many points did Kayla McBride score in the Lynx at Mercury game on May 30, 2025?",
+    "rewritten": true,
+    "qid": 66
+  },
+  {
+    "game_id": 401736262,
+    "type": "first_three",
+    "question": "who hit the first three in the dream vs mercury game on jul 23?",
+    "gold_names": [
+      "Sami Whitcomb"
+    ],
+    "gold_numbers": [],
+    "category": "casual_game",
+    "v1_qid": 23,
+    "question_template": "Who made the first three-pointer of the Dream at Mercury game on July 23, 2025?",
+    "rewritten": true,
+    "qid": 67
+  },
+  {
+    "game_id": 401736366,
+    "type": "q4_top_scorer",
+    "question": "who dropped the most points in the 4th of the liberty at mercury game on aug 30?",
+    "gold_names": [
+      "DeWanna Bonner"
+    ],
+    "gold_numbers": [],
+    "category": "casual_game",
+    "v1_qid": 137,
+    "question_template": "Who scored the most points in the fourth quarter of the Liberty at Mercury game on August 30, 2025?",
+    "rewritten": true,
+    "qid": 68
+  },
+  {
+    "game_id": 401736192,
+    "type": "second_half_turnovers",
+    "question": "which team turned it over more in the 2nd half of the wings at sun game on jun 20?",
+    "gold_names": [
+      "Connecticut Sun"
+    ],
+    "gold_numbers": [],
+    "category": "casual_game",
+    "v1_qid": 177,
+    "question_template": "Which team committed more turnovers in the second half of the Wings at Sun game on June 20, 2025?",
+    "rewritten": true,
+    "qid": 69
+  },
+  {
+    "game_id": 401736169,
+    "type": "final_score",
+    "question": "what was the final score of the fever vs dream game on jun 10?",
+    "gold_names": [],
+    "gold_numbers": [
+      77,
+      58
+    ],
+    "category": "casual_game",
+    "v1_qid": 162,
+    "question_template": "What was the final score of the Fever at Dream game on June 10, 2025?",
+    "rewritten": true,
+    "qid": 70
+  },
+  {
+    "game_id": 401736282,
+    "type": "player_points_box",
+    "question": "how many points did haley jones drop in the dream at wings game on jul 30?",
+    "gold_names": [],
+    "gold_numbers": [
+      12
+    ],
+    "category": "casual_game",
+    "v1_qid": 10,
+    "question_template": "How many points did Haley Jones score in the Dream at Wings game on July 30, 2025?",
+    "rewritten": true,
+    "qid": 71
+  },
+  {
+    "game_id": 401736283,
+    "type": "player_points_box",
+    "question": "how many points did alanna smith drop in the liberty at lynx game on jul 30?",
+    "gold_names": [],
+    "gold_numbers": [
+      12
+    ],
+    "category": "casual_game",
+    "v1_qid": 152,
+    "question_template": "How many points did Alanna Smith score in the Liberty at Lynx game on July 30, 2025?",
+    "rewritten": true,
+    "qid": 72
+  },
+  {
+    "game_id": 401736185,
+    "type": "q4_top_scorer",
+    "question": "who dropped the most points in the 4th of the valkyries at wings game on jun 17?",
+    "gold_names": [
+      "Arike Ogunbowale"
+    ],
+    "gold_numbers": [],
+    "category": "casual_game",
+    "v1_qid": 101,
+    "question_template": "Who scored the most points in the fourth quarter of the Valkyries at Wings game on June 17, 2025?",
+    "rewritten": true,
+    "qid": 73
+  },
+  {
+    "game_id": 401736115,
+    "type": "final_score",
+    "question": "what was the final score of the sky vs fever game on may 17?",
+    "gold_names": [],
+    "gold_numbers": [
+      93,
+      58
+    ],
+    "category": "casual_game",
+    "v1_qid": 216,
+    "question_template": "What was the final score of the Sky at Fever game on May 17, 2025?",
+    "rewritten": true,
+    "qid": 74
+  }
+]

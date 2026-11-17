@@ -1,0 +1,16 @@
+{
+  "dev": {
+    "49": "changed requested number to a margin ('by how many')",
+    "52": "added a team filter ('final points for the aces')",
+    "58": "added a team filter ('last points for the Valkyries')"
+  },
+  "test": {
+    "57": "invented a date ('on mar 15')",
+    "83": "changed requested number to a margin ('by how many')",
+    "88": "changed requested number to a margin ('by how many')",
+    "93": "changed requested number to a margin ('by how much')",
+    "119": "ambiguous number ('what was the total')",
+    "125": "added a team filter and a quarter ('for the suns', 'Q4')",
+    "133": "ambiguous number ('what's the total')"
+  }
+}

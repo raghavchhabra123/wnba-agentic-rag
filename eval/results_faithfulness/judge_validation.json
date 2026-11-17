@@ -1,0 +1,7 @@
+{
+  "planted_claims": 120,
+  "true_claims_marked_supported": "55/60",
+  "false_claims_marked_contradicted": "59/60",
+  "false_claims_marked_supported": 0,
+  "accuracy": 0.95
+}
