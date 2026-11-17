@@ -2,6 +2,8 @@
 
 ![tests](https://github.com/raghavchhabra123/wnba-agentic-rag/actions/workflows/tests.yml/badge.svg)
 
+**Live demo: [wnba-agentic-rag.streamlit.app](https://wnba-agentic-rag.streamlit.app/)** (if it's asleep, click the wake-up button and give it about 30 seconds)
+
 Ask anything about the 2025 WNBA season the way a fan would type it, and get an answer
 grounded in the data, along with every tool call behind it:
 

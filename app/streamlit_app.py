@@ -5,6 +5,7 @@
 
 import datetime
 import os
+import re
 import sys
 import threading
 from pathlib import Path
@@ -70,18 +71,19 @@ with st.sidebar:
     st.subheader("Pick a game")
     choice = st.selectbox("Game", games()["label"].tolist(), index=None,
                           placeholder="optional: fills in the game for you")
-    st.markdown("**Try asking**")
+    st.markdown("**Try asking** (click to fill in)")
     examples = [
         "Who scored the most points in Game 3 of the Finals?",
         "How did Caitlin Clark do against the Sky this year?",
         "In A'ja Wilson's best scoring game, who led the other team in points?",
         "Who led the league in assists per game?",
-        "With a game picked: what was the largest scoring run, and how did it happen?",
+        "What was the largest scoring run in Game 4 of the Finals, and how did it happen?",
     ]
-    for ex in examples:
-        st.markdown(f"- {ex}")
+    for i, ex in enumerate(examples):
+        st.button(ex, key=f"ex{i}", use_container_width=True,
+                  on_click=lambda ex=ex: st.session_state.update(question=ex))
 
-question = st.text_input("Question", max_chars=MAX_CHARS,
+question = st.text_input("Question", max_chars=MAX_CHARS, key="question",
                          placeholder="who went off for the lynx in the 4th vs golden state on sept 11?")
 if choice and question:
     row = games().set_index("label").loc[choice]
@@ -94,15 +96,28 @@ if st.button("Ask", type="primary", disabled=not question):
         st.stop()
     with st.spinner("Thinking..."):
         result = ask(question, graph=graph())
-    st.markdown(result["answer"])
+    # The agent ends with a "FINAL ANSWER:" line for automatic grading; show it as a highlight.
+    m = re.search(r"FINAL ANSWER:\s*(.+)", result["answer"])
+    body = result["answer"][:m.start()].strip() if m else result["answer"]
+    if m:
+        st.success(m.group(1).strip())
+    if body:
+        st.markdown(body)
     usage = result.get("usage", {})
-    st.caption(f"mode: {result.get('mode')} · {usage.get('llm_calls', 0)} LLM calls · "
+    mode = {"game": "single game", "season": "season", "done": "needs more detail"}.get(
+        result.get("mode"), result.get("mode"))
+    st.caption(f"Mode: {mode} · {usage.get('llm_calls', 0)} LLM calls · "
                f"{usage.get('input_tokens', 0) + usage.get('output_tokens', 0):,} tokens · "
                f"${usage.get('cost_usd', 0):.4f}")
     with st.expander("How the agent got there", expanded=True):
-        for step in result["trace"]:
+        for n, step in enumerate(result["trace"], 1):
             if step["step"] == "resolve_scope":
-                extra = {k: v for k, v in step.items() if k not in ("step", "extracted")}
-                st.markdown(f"**resolve_scope** → extracted `{step.get('extracted')}` {extra or ''}")
+                found = {k: v for k, v in (step.get("extracted") or {}).items()
+                         if v not in (None, False, "")}
+                extra = {k: v for k, v in step.items()
+                         if k not in ("step", "extracted") and v not in (None, "", [], {})}
+                st.markdown(f"{n}. **resolve_scope** → `{found or 'season-wide question'}`"
+                            + (f" `{extra}`" if extra else ""))
             else:
-                st.markdown(f"**{step['name']}** `{step['args']}`")
+                args = ", ".join(f"{k}={v!r}" for k, v in step["args"].items())
+                st.markdown(f"{n}. **{step['name']}**(`{args}`)")
